@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:07:11Z",
+            "last_commit": "2026-08-13T14:07:34Z",
             "owner": "frappe",
             "repo": "erpnext",
-            "stars": 38002
+            "stars": 38033
           }
         },
         {
@@ -25,7 +25,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T00:15:16Z",
+            "last_commit": "2026-08-13T16:20:45Z",
             "owner": "medplum",
             "repo": "medplum",
             "stars": 2607
@@ -39,7 +39,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-13T02:28:21Z",
+            "last_commit": "2026-08-13T17:10:03Z",
             "owner": "masslight",
             "repo": "ottehr",
             "stars": 321
@@ -115,10 +115,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T22:51:59Z",
+            "last_commit": "2026-08-13T13:21:19Z",
             "owner": "OHIF",
             "repo": "Viewers",
-            "stars": 4290
+            "stars": 4291
           }
         },
         {
@@ -160,7 +160,21 @@
             "last_commit": "2026-07-15T11:23:59Z",
             "owner": "dicoogle",
             "repo": "dicoogle",
-            "stars": 525
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DICOM Server",
+          "description": "OSS Implementation of DICOMweb standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T06:07:49Z",
+            "owner": "microsoft",
+            "repo": "dicom-server",
+            "stars": 512
           }
         },
         {
@@ -175,20 +189,6 @@
             "owner": "openslide",
             "repo": "openslide",
             "stars": 512
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DICOM Server",
-          "description": "OSS Implementation of DICOMweb standard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C#",
-            "last_commit": "2026-08-12T06:07:49Z",
-            "owner": "microsoft",
-            "repo": "dicom-server",
-            "stars": 511
           }
         },
         {
@@ -213,7 +213,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T16:12:04Z",
+            "last_commit": "2026-08-13T16:24:28Z",
             "owner": "kaapana",
             "repo": "kaapana",
             "stars": 274
@@ -255,7 +255,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-12T06:04:15Z",
+            "last_commit": "2026-08-13T06:50:06Z",
             "owner": "nci",
             "repo": "drishti",
             "stars": 204
@@ -269,7 +269,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-12T11:26:54Z",
+            "last_commit": "2026-08-13T17:18:07Z",
             "owner": "ImagingDataCommons",
             "repo": "slim",
             "stars": 166
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": "TSQL",
-            "last_commit": "2026-08-13T02:36:47Z",
+            "last_commit": "2026-08-13T16:01:26Z",
             "owner": "microsoft",
             "repo": "fhir-server",
             "stars": 1377
@@ -345,7 +345,7 @@
           "repo_info": {
             "archived": false,
             "language": "Kotlin",
-            "last_commit": "2026-08-12T08:50:08Z",
+            "last_commit": "2026-08-13T10:05:36Z",
             "owner": "cqframework",
             "repo": "clinical_quality_language",
             "stars": 324
@@ -373,7 +373,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-10T19:47:05Z",
+            "last_commit": "2026-08-13T16:30:03Z",
             "owner": "FirelyTeam",
             "repo": "spark",
             "stars": 283
@@ -387,7 +387,7 @@
           "repo_info": {
             "archived": false,
             "language": "Clojure",
-            "last_commit": "2026-08-12T20:34:06Z",
+            "last_commit": "2026-08-13T16:56:21Z",
             "owner": "samply",
             "repo": "blaze",
             "stars": 227
@@ -505,10 +505,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-13T03:04:34Z",
+            "last_commit": "2026-08-13T17:00:42Z",
             "owner": "hapifhir",
             "repo": "hapi-fhir",
-            "stars": 2376
+            "stars": 2378
           }
         },
         {
@@ -550,7 +550,7 @@
             "last_commit": "2026-06-21T03:39:58Z",
             "owner": "suyashkumar",
             "repo": "dicom",
-            "stars": 1074
+            "stars": 1075
           }
         },
         {
@@ -564,7 +564,7 @@
             "last_commit": "2026-08-12T14:38:18Z",
             "owner": "google",
             "repo": "fhir",
-            "stars": 946
+            "stars": 947
           }
         },
         {
@@ -575,7 +575,7 @@
           "repo_info": {
             "archived": false,
             "language": "C#",
-            "last_commit": "2026-08-12T16:23:57Z",
+            "last_commit": "2026-08-13T14:28:09Z",
             "owner": "FirelyTeam",
             "repo": "firely-net-sdk",
             "stars": 930
@@ -592,7 +592,7 @@
             "last_commit": "2026-06-09T22:24:25Z",
             "owner": "metriport",
             "repo": "metriport",
-            "stars": 763
+            "stars": 764
           }
         },
         {
@@ -648,7 +648,7 @@
             "last_commit": "2026-05-20T12:57:45Z",
             "owner": "datamol-io",
             "repo": "datamol",
-            "stars": 545
+            "stars": 546
           }
         },
         {
@@ -1013,10 +1013,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-13T00:31:31Z",
+            "last_commit": "2026-08-13T09:26:21Z",
             "owner": "the-momentum",
             "repo": "open-wearables",
-            "stars": 2330
+            "stars": 2331
           }
         },
         {
@@ -1069,10 +1069,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-12T09:12:18Z",
+            "last_commit": "2026-08-13T16:00:33Z",
             "owner": "oehf",
             "repo": "ipf",
-            "stars": 191
+            "stars": 192
           }
         }
       ],
@@ -1140,7 +1140,7 @@
             "last_commit": "2026-07-22T14:27:28Z",
             "owner": "synthetichealth",
             "repo": "synthea",
-            "stars": 3297
+            "stars": 3298
           }
         },
         {
@@ -1264,7 +1264,7 @@
             "last_commit": "2026-08-10T20:26:39Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8592
+            "stars": 8597
           }
         },
         {
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5712
+            "stars": 5715
           }
         },
         {
@@ -1292,7 +1292,7 @@
             "last_commit": "2026-08-09T03:14:21Z",
             "owner": "sunlabuiuc",
             "repo": "PyHealth",
-            "stars": 1646
+            "stars": 1647
           }
         }
       ],
@@ -1309,10 +1309,10 @@
           "repo_info": {
             "archived": false,
             "language": "Groovy",
-            "last_commit": "2026-08-12T20:50:22Z",
+            "last_commit": "2026-08-13T16:04:32Z",
             "owner": "openboxes",
             "repo": "openboxes",
-            "stars": 874
+            "stars": 875
           }
         },
         {
@@ -1334,7 +1334,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:07:44.678Z",
+    "last_updated": "2026-08-13T17:23:59.083Z",
     "original_repository": "kakoni/awesome-healthcare",
     "original_repository_sha": "c799138661a78faf0f0ee3eba6d657770988b6f2",
     "enhanced_repository": "enhansome/enhansome-healthcare",
