@@ -1,0 +1,1344 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ERPNext",
+          "description": "Modules that help manage patients, appointments, consultations, lab tests, and billing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:07:11Z",
+            "owner": "frappe",
+            "repo": "erpnext",
+            "stars": 38002
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medplum",
+          "description": "Developer platform that enables flexible and rapid development of healthcare apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:15:16Z",
+            "owner": "medplum",
+            "repo": "medplum",
+            "stars": 2607
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ottehr",
+          "description": "Modular, Production-Ready, Open-Source EHR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T02:28:21Z",
+            "owner": "masslight",
+            "repo": "ottehr",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Odoo Medical",
+          "description": "Universal Health and Hospital Information System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-30T14:32:02Z",
+            "owner": "OCA",
+            "repo": "vertical-medical",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EHRServer",
+          "description": "CaboLabs EHRServer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2023-03-13T05:23:36Z",
+            "owner": "ppazos",
+            "repo": "cabolabs-ehrserver",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "openMAXIMS",
+          "description": "Full Patient Administration System designed for the NHS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-07-31T09:34:49Z",
+            "owner": "IMS-MAXIMS",
+            "repo": "openMAXIMS",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenClinic",
+          "description": "Medical Records System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2019-10-01T16:14:05Z",
+            "owner": "jact",
+            "repo": "openclinic",
+            "stars": 39
+          }
+        }
+      ],
+      "title": "EHR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OHIF",
+          "description": "OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:51:59Z",
+            "owner": "OHIF",
+            "repo": "Viewers",
+            "stars": 4290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cornerstone",
+          "description": "Open source project with a goal to deliver a complete web based medical imaging platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-03-07T09:58:47Z",
+            "owner": "cornerstonejs",
+            "repo": "cornerstone",
+            "stars": 2109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Papaya",
+          "description": "Pure JavaScript medical research image viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-10T20:41:08Z",
+            "owner": "rii-mango",
+            "repo": "Papaya",
+            "stars": 583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dicoogle",
+          "description": "Dicoogle is an extensible, platform-independent and open-source PACS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-15T11:23:59Z",
+            "owner": "dicoogle",
+            "repo": "dicoogle",
+            "stars": 525
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSlide",
+          "description": "is a C library for reading whole slide image files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-02T01:12:33Z",
+            "owner": "openslide",
+            "repo": "openslide",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DICOM Server",
+          "description": "OSS Implementation of DICOMweb standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T06:07:49Z",
+            "owner": "microsoft",
+            "repo": "dicom-server",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Viv",
+          "description": "multiscale visualization of high-resolution multiplexed bioimaging data on the web.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T10:17:57Z",
+            "owner": "hms-dbmi",
+            "repo": "viv",
+            "stars": 356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kaapana",
+          "description": "Open source toolkit for state of the art platform provisioning in the field of medical data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T16:12:04Z",
+            "owner": "kaapana",
+            "repo": "kaapana",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DICOMcloud",
+          "description": "A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-12-15T09:58:31Z",
+            "owner": "DICOMcloud",
+            "repo": "DICOMcloud",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Omero",
+          "description": "open source client/server system written in Java for visualizing, managing, and annotating microscope images and metadata",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-07T17:37:05Z",
+            "owner": "ome",
+            "repo": "openmicroscopy",
+            "stars": 221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drishti",
+          "description": "Tomography and electron-microscopy data visualizer for both scientists and lay people.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T06:04:15Z",
+            "owner": "nci",
+            "repo": "drishti",
+            "stars": 204
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Slim",
+          "description": "Interoperable web viewer and annotation tool for computational pathology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T11:26:54Z",
+            "owner": "ImagingDataCommons",
+            "repo": "slim",
+            "stars": 166
+          }
+        }
+      ],
+      "title": "Imaging"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ResearchKit",
+          "description": "Software framework that makes it easy to create apps for medical research or for other research projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2026-07-15T18:56:45Z",
+            "owner": "ResearchKit",
+            "repo": "ResearchKit",
+            "stars": 5745
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CareKit",
+          "description": "Open source software framework for creating apps that help people better understand and manage their health.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-04-03T01:29:53Z",
+            "owner": "carekit-apple",
+            "repo": "CareKit",
+            "stars": 2524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHIR Server for Azure",
+          "description": "A .NET Core implementation of the FHIR standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TSQL",
+            "last_commit": "2026-08-13T02:36:47Z",
+            "owner": "microsoft",
+            "repo": "fhir-server",
+            "stars": 1377
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LinuxForHealth FHIR Server",
+          "description": "Modular Java implementation of version 4 of the HL7 FHIR specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-04-18T14:50:56Z",
+            "owner": "LinuxForHealth",
+            "repo": "FHIR",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clinical Quality Language",
+          "description": "Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-08-12T08:50:08Z",
+            "owner": "cqframework",
+            "repo": "clinical_quality_language",
+            "stars": 324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHIR Works on AWS",
+          "description": "FHIR Works on AWS deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2023-04-13T16:49:20Z",
+            "owner": "awslabs",
+            "repo": "fhir-works-on-aws-deployment",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spark",
+          "description": "Public domain FHIR server developed in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T19:47:05Z",
+            "owner": "FirelyTeam",
+            "repo": "spark",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blaze",
+          "description": "A FHIR Store with internal, fast CQL Evaluation Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-08-12T20:34:06Z",
+            "owner": "samply",
+            "repo": "blaze",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sushi",
+          "description": "a reference implementation command-line interpreter/compiler for FHIR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T18:34:57Z",
+            "owner": "FHIR",
+            "repo": "sushi",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swift-SMART",
+          "description": "Swift SMART on FHIR framework for iOS and OS X.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2021-03-18T05:13:28Z",
+            "owner": "smart-on-fhir",
+            "repo": "Swift-SMART",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intervention Engine FHIR Server",
+          "description": "Generic FHIR server implementation in GoLang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2021-05-11T16:26:35Z",
+            "owner": "intervention-engine",
+            "repo": "fhir",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "API Server",
+          "description": "FHIR Server to support patient- and clinician-facing apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2017-10-17T16:32:57Z",
+            "owner": "smart-on-fhir",
+            "repo": "api-server",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CyclOps",
+          "description": "Framework for healthcare ML implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:00:26Z",
+            "owner": "VectorInstitute",
+            "repo": "cyclops",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHIR Proxy",
+          "description": "secure application that acts as an intermediary in the transfer of FHIR data to and from Azure API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-04-20T14:41:33Z",
+            "owner": "microsoft",
+            "repo": "fhir-proxy",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Medblocks UI",
+          "description": "Web Components for rapid development of openEHR and FHIR systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-05-29T11:46:19Z",
+            "owner": "medblocks",
+            "repo": "medblocks-ui",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HAPI FHIR",
+          "description": "Java API for HL7 FHIR Clients and Servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T03:04:34Z",
+            "owner": "hapifhir",
+            "repo": "hapi-fhir",
+            "stars": 2376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fellow Oak DICOM",
+          "description": "DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T14:24:50Z",
+            "owner": "fo-dicom",
+            "repo": "fo-dicom",
+            "stars": 1207
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TorchXRayVision",
+          "description": "A library for chest X-ray datasets and models. Including pre-trained models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-01T17:56:57Z",
+            "owner": "mlmed",
+            "repo": "torchxrayvision",
+            "stars": 1182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dicom",
+          "description": "High Performance DICOM Medical Image Parser in GoLang.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-06-21T03:39:58Z",
+            "owner": "suyashkumar",
+            "repo": "dicom",
+            "stars": 1074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHIR protocol buffers",
+          "description": "A Google implementation of protocol buffers for FHIR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T14:38:18Z",
+            "owner": "google",
+            "repo": "fhir",
+            "stars": 946
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHIR .NET API",
+          "description": "The official .NET API for HL7 FHIR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:23:57Z",
+            "owner": "FirelyTeam",
+            "repo": "firely-net-sdk",
+            "stars": 930
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metriport",
+          "description": "Open-source universal API for healthcare data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T22:24:25Z",
+            "owner": "metriport",
+            "repo": "metriport",
+            "stars": 763
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python SMART on FHIR client",
+          "description": "Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T07:31:43Z",
+            "owner": "smart-on-fhir",
+            "repo": "client-py",
+            "stars": 694
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android FHIR SDK",
+          "description": "The Android FHIR SDK",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Kotlin",
+            "last_commit": "2026-03-25T19:37:09Z",
+            "owner": "ohs-foundation",
+            "repo": "android-fhir",
+            "stars": 599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pynetdicom",
+          "description": "A Python implementation of the DICOM networking protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T17:16:56Z",
+            "owner": "pydicom",
+            "repo": "pynetdicom",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Datamol",
+          "description": "Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-20T12:57:45Z",
+            "owner": "datamol-io",
+            "repo": "datamol",
+            "stars": 545
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fhir.js",
+          "description": "JavaScript client for FHIR.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-06-06T06:53:41Z",
+            "owner": "FHIR",
+            "repo": "fhir.js",
+            "stars": 437
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Asymmetrik FHIR API Server",
+          "description": "A secure REST implementation for the HL7 FHIR Specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-02-15T15:31:26Z",
+            "owner": "bluehalo",
+            "repo": "node-fhir-server-core",
+            "stars": 414
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ehrapy",
+          "description": "Electronic Health Record analysis in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T14:55:05Z",
+            "owner": "theislab",
+            "repo": "ehrapy",
+            "stars": 361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python HL7",
+          "description": "Simple library for parsing messages of HL7 version 2.x into Python objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-09T00:07:57Z",
+            "owner": "johnpaulett",
+            "repo": "python-hl7",
+            "stars": 319
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hermes",
+          "description": "a SNOMED CT terminology server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2026-05-10T15:59:14Z",
+            "owner": "wardle",
+            "repo": "hermes",
+            "stars": 234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHIRModels",
+          "description": "FHIRModels is a Swift library for FHIR resource data models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2026-06-09T13:27:13Z",
+            "owner": "apple",
+            "repo": "FHIRModels",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Evil-DICOM",
+          "description": "C# DICOM Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-20T16:12:41Z",
+            "owner": "rexcardan",
+            "repo": "Evil-DICOM",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHIRKit Client",
+          "description": "Node FHIR client library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-09T02:48:22Z",
+            "owner": "Vermonster",
+            "repo": "fhir-kit-client",
+            "stars": 184
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby FHIR",
+          "description": "FHIR client implementation in Ruby.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-05-01T14:17:15Z",
+            "owner": "inferno-framework",
+            "repo": "fhir_client",
+            "stars": 176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "php-fhir",
+          "description": "Tools for creating PHP classes from the HL7 FHIR Specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2026-06-25T08:51:28Z",
+            "owner": "dcarbone",
+            "repo": "php-fhir",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python 835 Parser",
+          "description": "A simple-to-use Python interface to EDI 835 Health Care Claim Payment and Remittance Advice files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-03T16:17:37Z",
+            "owner": "keiron-stoddart",
+            "repo": "edi-835-parser",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ruby HL7",
+          "description": "Ruby HL7 library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2013-07-12T12:48:30Z",
+            "owner": "segfault",
+            "repo": "ruby-hl7",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Archie",
+          "description": "OpenEHR Library written in Java.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-11T11:03:39Z",
+            "owner": "openEHR",
+            "repo": "archie",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Graphir",
+          "description": "GraphQL interface over FHIR API",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-09-03T21:15:42Z",
+            "owner": "microsoft",
+            "repo": "Graphir",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node HL7",
+          "description": "Node module that is bridged with the Java Hapi HL7 library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-09-11T21:13:05Z",
+            "owner": "MatthewVita",
+            "repo": "node-hl7-complete",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Node-hl7-parser",
+          "description": "Open source version of Redox's HL7 v2 to schema-fied JSON parser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-20T21:01:43Z",
+            "owner": "RedoxEngine",
+            "repo": "redox-hl7-v2",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hearth",
+          "description": "A fast FHIR-compliant server focused on longitudinal data stores.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-22T11:31:56Z",
+            "owner": "jembi",
+            "repo": "hearth",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust FHIR",
+          "description": "Rust SDK for HL7 FHIR",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Starlark",
+            "last_commit": "2026-08-11T23:46:36Z",
+            "owner": "itsbalamurali",
+            "repo": "rust-fhir",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nhs-numbers",
+          "description": "Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:31:08Z",
+            "owner": "uk-fci",
+            "repo": "nhs-number",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Health data standards",
+          "description": "Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Ruby",
+            "last_commit": "2020-12-04T17:19:05Z",
+            "owner": "projectcypress",
+            "repo": "health-data-standards",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SMART Pediatric Growth Chart",
+          "description": "Pediatric growth charts.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2024-02-08T15:06:15Z",
+            "owner": "smart-on-fhir",
+            "repo": "growth-chart-app",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intervention Engine",
+          "description": "Provides a web-application for data-driven team huddles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2017-09-28T02:27:32Z",
+            "owner": "intervention-engine",
+            "repo": "ie",
+            "stars": 34
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fasten Health",
+          "description": "open-source, self-hosted, personal/family electronic medical record aggregator",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2026-02-13T03:26:58Z",
+            "owner": "fastenhealth",
+            "repo": "fasten-onprem",
+            "stars": 2795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HealthLocker",
+          "description": "Elixir-based personal health record.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Elixir",
+            "last_commit": "2018-06-22T12:16:35Z",
+            "owner": "healthlocker",
+            "repo": "healthlocker",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "PHR"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenWearables",
+          "description": "Self-hosted platform to unify wearable health data through one AI-ready API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T00:31:31Z",
+            "owner": "the-momentum",
+            "repo": "open-wearables",
+            "stars": 2330
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextGen Connect Integration Engine",
+          "description": "The swiss army knife of healthcare integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-09-23T16:32:01Z",
+            "owner": "nextgenhealthcare",
+            "repo": "connect",
+            "stars": 1190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FHIR Converter",
+          "description": "an open source project that enables conversion of health data from legacy formats to FHIR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Liquid",
+            "last_commit": "2026-06-03T14:01:49Z",
+            "owner": "microsoft",
+            "repo": "FHIR-Converter",
+            "stars": 524
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Google HCLS Data Harmonization",
+          "description": "an engine that converts data of one structure to another",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-07T09:53:34Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "healthcare-data-harmonization",
+            "stars": 246
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open eHealth Integration Platform",
+          "description": "An extension of the Apache Camel routing and mediation engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T09:12:18Z",
+            "owner": "oehf",
+            "repo": "ipf",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Integration"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ADAM",
+          "description": "Genomics analysis platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-03-17T20:10:53Z",
+            "owner": "bigdatagenomics",
+            "repo": "adam",
+            "stars": 1056
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bcbio",
+          "description": "Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-24T11:11:30Z",
+            "owner": "bcbio",
+            "repo": "bcbio-nextgen",
+            "stars": 1030
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FlashDeconv",
+          "description": "High-performance spatial transcriptomics deconvolution for cell type mapping in tissue samples.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T12:55:30Z",
+            "owner": "cafferychen777",
+            "repo": "flashdeconv",
+            "stars": 24
+          }
+        }
+      ],
+      "title": "Bioinformatics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Synthea Patient Generator",
+          "description": "Synthetic patient generator that models the medical history of synthetic patients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-22T14:27:28Z",
+            "owner": "synthetichealth",
+            "repo": "synthea",
+            "stars": 3297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Snow Owl",
+          "description": "Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Java",
+            "last_commit": "2026-07-03T14:24:29Z",
+            "owner": "b2ihealthcare",
+            "repo": "snow-owl",
+            "stars": 292
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EDS_NLP",
+          "description": "provides a set of spaCy components to extract information from clinical notes written in French",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T22:48:15Z",
+            "owner": "aphp",
+            "repo": "edsnlp",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eds-scikit",
+          "description": "a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-19T09:08:01Z",
+            "owner": "aphp",
+            "repo": "eds-scikit",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Atlas BI Library",
+          "description": "The unified report library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TSQL",
+            "last_commit": "2026-08-12T17:37:12Z",
+            "owner": "atlas-bi",
+            "repo": "Library",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cedar",
+          "description": "Open source tool for testing the strength of Electronic Clinical Quality Measure.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2017-09-13T18:55:58Z",
+            "owner": "mitre",
+            "repo": "cedar",
+            "stars": 8
+          }
+        }
+      ],
+      "title": "Data"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Health Icons",
+          "description": "A collection of open source icons for public health projects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T12:32:07Z",
+            "owner": "resolvetosavelives",
+            "repo": "healthicons",
+            "stars": 847
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Determinants of Health",
+          "description": "Determinants of Health Visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-02-04T16:00:01Z",
+            "owner": "goinvo",
+            "repo": "HealthDeterminants",
+            "stars": 93
+          }
+        }
+      ],
+      "title": "Design"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MONAI",
+          "description": "AI Toolkit for Healthcare Imaging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:26:39Z",
+            "owner": "Project-MONAI",
+            "repo": "MONAI",
+            "stars": 8592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MedicalGPT",
+          "description": "Training Your Own Medical GPT Model with ChatGPT Training Pipeline.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-03T03:39:57Z",
+            "owner": "shibing624",
+            "repo": "MedicalGPT",
+            "stars": 5712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyHealth",
+          "description": "A Deep Learning Python Toolkit for Healthcare Application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T03:14:21Z",
+            "owner": "sunlabuiuc",
+            "repo": "PyHealth",
+            "stars": 1646
+          }
+        }
+      ],
+      "title": "Machine learning"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenBoxes",
+          "description": "an Open Source Inventory and Supply Chain Management System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Groovy",
+            "last_commit": "2026-08-12T20:50:22Z",
+            "owner": "openboxes",
+            "repo": "openboxes",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ID3C",
+          "description": "Data logistics system enabling real-time genomic epidemiology.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PLpgSQL",
+            "last_commit": "2023-12-06T22:13:56Z",
+            "owner": "seattleflu",
+            "repo": "id3c",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Logistics"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:07:44.678Z",
+    "original_repository": "kakoni/awesome-healthcare",
+    "original_repository_sha": "c799138661a78faf0f0ee3eba6d657770988b6f2",
+    "enhanced_repository": "enhansome/enhansome-healthcare",
+    "enhanced_repository_description": null,
+    "title": "Awesome Health with stars"
+  }
+}
