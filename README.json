@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1864233,
             "language": "Python",
-            "last_commit": "2026-08-19T12:01:44Z",
+            "last_commit": "2026-08-19T16:48:13Z",
             "owner": "frappe",
             "repo": "erpnext",
-            "stars": 38257
+            "stars": 38265
           }
         },
         {
@@ -27,7 +27,7 @@
             "archived": false,
             "id": 360238600,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T00:13:02Z",
+            "last_commit": "2026-08-19T16:15:15Z",
             "owner": "medplum",
             "repo": "medplum",
             "stars": 2614
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 694347760,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T12:30:08Z",
+            "last_commit": "2026-08-19T16:43:50Z",
             "owner": "masslight",
             "repo": "ottehr",
             "stars": 322
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 44164233,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:19:04Z",
+            "last_commit": "2026-08-19T15:53:20Z",
             "owner": "OHIF",
             "repo": "Viewers",
             "stars": 4300
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 187111872,
             "language": "C#",
-            "last_commit": "2026-08-16T00:37:41Z",
+            "last_commit": "2026-08-19T16:48:50Z",
             "owner": "microsoft",
             "repo": "dicom-server",
             "stars": 512
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 285529340,
             "language": "Python",
-            "last_commit": "2026-08-19T11:19:29Z",
+            "last_commit": "2026-08-19T15:42:38Z",
             "owner": "kaapana",
             "repo": "kaapana",
             "stars": 274
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 335130719,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T03:52:15Z",
+            "last_commit": "2026-08-19T16:36:42Z",
             "owner": "ImagingDataCommons",
             "repo": "slim",
             "stars": 166
@@ -312,7 +312,7 @@
             "last_commit": "2026-07-15T18:56:45Z",
             "owner": "ResearchKit",
             "repo": "ResearchKit",
-            "stars": 5745
+            "stars": 5746
           }
         },
         {
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 145907688,
             "language": "TSQL",
-            "last_commit": "2026-08-18T22:38:06Z",
+            "last_commit": "2026-08-19T15:38:43Z",
             "owner": "microsoft",
             "repo": "fhir-server",
             "stars": 1377
@@ -369,7 +369,7 @@
             "archived": false,
             "id": 23360533,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T09:49:22Z",
+            "last_commit": "2026-08-19T15:56:45Z",
             "owner": "cqframework",
             "repo": "clinical_quality_language",
             "stars": 327
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 178375913,
             "language": "Clojure",
-            "last_commit": "2026-08-19T12:19:52Z",
+            "last_commit": "2026-08-19T13:47:18Z",
             "owner": "samply",
             "repo": "blaze",
             "stars": 227
@@ -540,7 +540,7 @@
             "archived": false,
             "id": 21180741,
             "language": "Java",
-            "last_commit": "2026-08-19T07:15:13Z",
+            "last_commit": "2026-08-19T16:20:23Z",
             "owner": "hapifhir",
             "repo": "hapi-fhir",
             "stars": 2382
@@ -1083,10 +1083,10 @@
             "archived": false,
             "id": 1086572146,
             "language": "Python",
-            "last_commit": "2026-08-19T11:07:36Z",
+            "last_commit": "2026-08-19T12:52:40Z",
             "owner": "the-momentum",
             "repo": "open-wearables",
-            "stars": 2364
+            "stars": 2366
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "last_commit": "2026-08-18T16:19:53Z",
             "owner": "synthetichealth",
             "repo": "synthea",
-            "stars": 3302
+            "stars": 3303
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "archived": false,
             "id": 279919776,
             "language": "TSQL",
-            "last_commit": "2026-08-18T14:03:48Z",
+            "last_commit": "2026-08-19T15:00:19Z",
             "owner": "atlas-bi",
             "repo": "Library",
             "stars": 17
@@ -1350,7 +1350,7 @@
             "last_commit": "2026-08-19T09:58:09Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8611
+            "stars": 8613
           }
         },
         {
@@ -1398,7 +1398,7 @@
             "archived": false,
             "id": 6001800,
             "language": "Groovy",
-            "last_commit": "2026-08-19T10:42:06Z",
+            "last_commit": "2026-08-19T16:36:03Z",
             "owner": "openboxes",
             "repo": "openboxes",
             "stars": 879
@@ -1424,7 +1424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:31:02.577Z",
+    "last_updated": "2026-08-19T16:52:01.575Z",
     "original_repository": "kakoni/awesome-healthcare",
     "original_repository_id": 52342167,
     "original_repository_sha": "c799138661a78faf0f0ee3eba6d657770988b6f2",
