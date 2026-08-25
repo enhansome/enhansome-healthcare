@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1864233,
             "language": "Python",
-            "last_commit": "2026-08-24T16:08:12Z",
+            "last_commit": "2026-08-25T05:43:14Z",
             "owner": "frappe",
             "repo": "erpnext",
-            "stars": 38450
+            "stars": 38459
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 360238600,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T16:41:57Z",
+            "last_commit": "2026-08-25T03:41:24Z",
             "owner": "medplum",
             "repo": "medplum",
-            "stars": 2625
+            "stars": 2627
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 694347760,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:23:17Z",
+            "last_commit": "2026-08-25T05:41:50Z",
             "owner": "masslight",
             "repo": "ottehr",
             "stars": 327
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 44164233,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T16:17:55Z",
+            "last_commit": "2026-08-24T19:06:04Z",
             "owner": "OHIF",
             "repo": "Viewers",
-            "stars": 4307
+            "stars": 4308
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 285529340,
             "language": "Python",
-            "last_commit": "2026-08-24T15:18:38Z",
+            "last_commit": "2026-08-24T19:46:55Z",
             "owner": "kaapana",
             "repo": "kaapana",
             "stars": 274
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 14131626,
             "language": "C++",
-            "last_commit": "2026-08-24T06:16:46Z",
+            "last_commit": "2026-08-25T04:41:47Z",
             "owner": "nci",
             "repo": "drishti",
             "stars": 204
@@ -288,7 +288,7 @@
             "archived": false,
             "id": 335130719,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T21:00:34Z",
+            "last_commit": "2026-08-24T20:26:18Z",
             "owner": "ImagingDataCommons",
             "repo": "slim",
             "stars": 166
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 145907688,
             "language": "TSQL",
-            "last_commit": "2026-08-24T15:30:21Z",
+            "last_commit": "2026-08-25T05:17:29Z",
             "owner": "microsoft",
             "repo": "fhir-server",
             "stars": 1376
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 178375913,
             "language": "Clojure",
-            "last_commit": "2026-08-24T13:27:17Z",
+            "last_commit": "2026-08-24T19:33:50Z",
             "owner": "samply",
             "repo": "blaze",
             "stars": 227
@@ -489,7 +489,7 @@
             "archived": false,
             "id": 462034019,
             "language": "Python",
-            "last_commit": "2026-08-17T20:23:12Z",
+            "last_commit": "2026-08-24T19:59:58Z",
             "owner": "VectorInstitute",
             "repo": "cyclops",
             "stars": 95
@@ -540,10 +540,10 @@
             "archived": false,
             "id": 21180741,
             "language": "Java",
-            "last_commit": "2026-08-24T16:07:19Z",
+            "last_commit": "2026-08-25T01:15:52Z",
             "owner": "hapifhir",
             "repo": "hapi-fhir",
-            "stars": 2387
+            "stars": 2388
           }
         },
         {
@@ -558,7 +558,7 @@
             "last_commit": "2026-08-15T16:35:01Z",
             "owner": "fo-dicom",
             "repo": "fo-dicom",
-            "stars": 1209
+            "stars": 1210
           }
         },
         {
@@ -570,7 +570,7 @@
             "archived": false,
             "id": 244798181,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T17:53:52Z",
+            "last_commit": "2026-08-24T20:09:34Z",
             "owner": "mlmed",
             "repo": "torchxrayvision",
             "stars": 1184
@@ -735,7 +735,7 @@
             "archived": false,
             "id": 376026973,
             "language": "Python",
-            "last_commit": "2026-08-18T14:32:21Z",
+            "last_commit": "2026-08-24T19:55:15Z",
             "owner": "theislab",
             "repo": "ehrapy",
             "stars": 362
@@ -1083,10 +1083,10 @@
             "archived": false,
             "id": 1086572146,
             "language": "Python",
-            "last_commit": "2026-08-24T15:00:07Z",
+            "last_commit": "2026-08-24T23:12:02Z",
             "owner": "the-momentum",
             "repo": "open-wearables",
-            "stars": 2394
+            "stars": 2395
           }
         },
         {
@@ -1218,7 +1218,7 @@
             "last_commit": "2026-08-18T16:19:53Z",
             "owner": "synthetichealth",
             "repo": "synthea",
-            "stars": 3308
+            "stars": 3309
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5740
+            "stars": 5741
           }
         },
         {
@@ -1398,7 +1398,7 @@
             "archived": false,
             "id": 6001800,
             "language": "Groovy",
-            "last_commit": "2026-08-24T14:50:22Z",
+            "last_commit": "2026-08-24T17:17:09Z",
             "owner": "openboxes",
             "repo": "openboxes",
             "stars": 881
@@ -1424,7 +1424,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T17:00:24.897Z",
+    "last_updated": "2026-08-25T05:52:58.232Z",
     "original_repository": "kakoni/awesome-healthcare",
     "original_repository_id": 52342167,
     "original_repository_sha": "c799138661a78faf0f0ee3eba6d657770988b6f2",
