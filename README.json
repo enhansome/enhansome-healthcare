@@ -12,10 +12,10 @@
             "archived": false,
             "id": 1864233,
             "language": "Python",
-            "last_commit": "2026-08-26T17:44:35Z",
+            "last_commit": "2026-08-27T11:20:12Z",
             "owner": "frappe",
             "repo": "erpnext",
-            "stars": 38532
+            "stars": 38560
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 360238600,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T18:03:59Z",
+            "last_commit": "2026-08-27T05:46:16Z",
             "owner": "medplum",
             "repo": "medplum",
-            "stars": 2627
+            "stars": 2632
           }
         },
         {
@@ -42,10 +42,10 @@
             "archived": false,
             "id": 694347760,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T18:07:27Z",
+            "last_commit": "2026-08-27T11:47:23Z",
             "owner": "masslight",
             "repo": "ottehr",
-            "stars": 329
+            "stars": 330
           }
         },
         {
@@ -123,10 +123,10 @@
             "archived": false,
             "id": 44164233,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:46:31Z",
+            "last_commit": "2026-08-27T02:09:23Z",
             "owner": "OHIF",
             "repo": "Viewers",
-            "stars": 4309
+            "stars": 4310
           }
         },
         {
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 285529340,
             "language": "Python",
-            "last_commit": "2026-08-26T18:00:49Z",
+            "last_commit": "2026-08-27T09:07:53Z",
             "owner": "kaapana",
             "repo": "kaapana",
             "stars": 274
@@ -273,7 +273,7 @@
             "archived": false,
             "id": 14131626,
             "language": "C++",
-            "last_commit": "2026-08-25T06:31:14Z",
+            "last_commit": "2026-08-27T05:57:44Z",
             "owner": "nci",
             "repo": "drishti",
             "stars": 204
@@ -339,10 +339,10 @@
             "archived": false,
             "id": 145907688,
             "language": "TSQL",
-            "last_commit": "2026-08-26T17:16:40Z",
+            "last_commit": "2026-08-27T02:07:53Z",
             "owner": "microsoft",
             "repo": "fhir-server",
-            "stars": 1377
+            "stars": 1378
           }
         },
         {
@@ -414,7 +414,7 @@
             "archived": false,
             "id": 178375913,
             "language": "Clojure",
-            "last_commit": "2026-08-26T14:41:58Z",
+            "last_commit": "2026-08-27T11:32:43Z",
             "owner": "samply",
             "repo": "blaze",
             "stars": 227
@@ -540,7 +540,7 @@
             "archived": false,
             "id": 21180741,
             "language": "Java",
-            "last_commit": "2026-08-26T18:05:17Z",
+            "last_commit": "2026-08-26T23:32:05Z",
             "owner": "hapifhir",
             "repo": "hapi-fhir",
             "stars": 2390
@@ -573,7 +573,7 @@
             "last_commit": "2026-08-24T20:09:34Z",
             "owner": "mlmed",
             "repo": "torchxrayvision",
-            "stars": 1183
+            "stars": 1184
           }
         },
         {
@@ -600,7 +600,7 @@
             "archived": false,
             "id": 116909936,
             "language": "C++",
-            "last_commit": "2026-08-26T03:38:25Z",
+            "last_commit": "2026-08-27T04:51:54Z",
             "owner": "google",
             "repo": "fhir",
             "stars": 949
@@ -629,11 +629,11 @@
           "repo_info": {
             "archived": false,
             "id": 580652318,
-            "language": "JavaScript",
-            "last_commit": "2026-06-09T22:24:25Z",
+            "language": "TypeScript",
+            "last_commit": "2026-08-27T07:56:41Z",
             "owner": "metriport",
             "repo": "metriport",
-            "stars": 767
+            "stars": 768
           }
         },
         {
@@ -768,7 +768,7 @@
             "last_commit": "2026-05-10T15:59:14Z",
             "owner": "wardle",
             "repo": "hermes",
-            "stars": 234
+            "stars": 235
           }
         },
         {
@@ -1083,7 +1083,7 @@
             "archived": false,
             "id": 1086572146,
             "language": "Python",
-            "last_commit": "2026-08-26T13:54:06Z",
+            "last_commit": "2026-08-27T10:56:46Z",
             "owner": "the-momentum",
             "repo": "open-wearables",
             "stars": 2408
@@ -1218,7 +1218,7 @@
             "last_commit": "2026-08-18T16:19:53Z",
             "owner": "synthetichealth",
             "repo": "synthea",
-            "stars": 3312
+            "stars": 3314
           }
         },
         {
@@ -1275,7 +1275,7 @@
             "archived": false,
             "id": 279919776,
             "language": "TSQL",
-            "last_commit": "2026-08-25T14:30:37Z",
+            "last_commit": "2026-08-27T03:35:06Z",
             "owner": "atlas-bi",
             "repo": "Library",
             "stars": 17
@@ -1350,7 +1350,7 @@
             "last_commit": "2026-08-26T13:54:22Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8634
+            "stars": 8636
           }
         },
         {
@@ -1365,7 +1365,7 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5748
+            "stars": 5751
           }
         },
         {
@@ -1398,10 +1398,10 @@
             "archived": false,
             "id": 6001800,
             "language": "Groovy",
-            "last_commit": "2026-08-26T16:34:19Z",
+            "last_commit": "2026-08-27T11:03:02Z",
             "owner": "openboxes",
             "repo": "openboxes",
-            "stars": 882
+            "stars": 883
           }
         },
         {
@@ -1424,9 +1424,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T18:09:36.364Z",
-    "original_repository": "kakoni/awesome-healthcare",
-    "original_repository_id": 52342167,
+    "last_updated": "2026-08-27T11:47:31.595Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 52342167,
+      "language": null,
+      "last_commit": "2026-05-05T10:41:03Z",
+      "owner": "kakoni",
+      "repo": "awesome-healthcare",
+      "stars": 3951
+    },
     "original_repository_sha": "c799138661a78faf0f0ee3eba6d657770988b6f2",
     "enhanced_repository": "enhansome/enhansome-healthcare",
     "enhanced_repository_description": null,
