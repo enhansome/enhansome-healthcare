@@ -32,9 +32,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### EHR
 
-* [ERPNext](https://github.com/frappe/erpnext) ⭐ 38,612 | 🐛 1,825 | 🌐 Python | 📅 2026-08-28 - Modules that help manage patients, appointments, consultations, lab tests, and billing.
-* [Medplum](https://github.com/medplum/medplum) ⭐ 2,635 | 🐛 616 | 🌐 TypeScript | 📅 2026-08-29 - Developer platform that enables flexible and rapid development of healthcare apps.
-* [Ottehr](https://github.com/masslight/ottehr) ⭐ 331 | 🐛 1,195 | 🌐 TypeScript | 📅 2026-08-28 - Modular, Production-Ready, Open-Source EHR
+* [ERPNext](https://github.com/frappe/erpnext) ⭐ 38,616 | 🐛 1,823 | 🌐 Python | 📅 2026-08-28 - Modules that help manage patients, appointments, consultations, lab tests, and billing.
+* [Medplum](https://github.com/medplum/medplum) ⭐ 2,636 | 🐛 616 | 🌐 TypeScript | 📅 2026-08-29 - Developer platform that enables flexible and rapid development of healthcare apps.
+* [Ottehr](https://github.com/masslight/ottehr) ⭐ 331 | 🐛 1,195 | 🌐 TypeScript | 📅 2026-08-29 - Modular, Production-Ready, Open-Source EHR
 * [Odoo Medical](https://github.com/OCA/vertical-medical) ⭐ 294 | 🐛 4 | 📅 2025-09-30 - Universal Health and Hospital Information System.
 * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) ⭐ 205 | 🐛 166 | 🌐 Groovy | 📅 2023-03-13 - CaboLabs EHRServer.
 * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) ⭐ 65 | 🐛 23 | 🌐 Java | 📅 2020-07-31 - Full Patient Administration System designed for the NHS.
@@ -84,7 +84,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 * [Papaya](https://github.com/rii-mango/Papaya) ⭐ 583 | 🐛 47 | 🌐 JavaScript | 📅 2024-06-10 - Pure JavaScript medical research image viewer.
 * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) ⭐ 527 | 🐛 61 | 🌐 Java | 📅 2026-07-15 - Dicoogle is an extensible, platform-independent and open-source PACS
 * [OpenSlide](https://github.com/openslide/openslide) ⭐ 516 | 🐛 100 | 🌐 C | 📅 2026-08-02 - is a C library for reading whole slide image files.
-* [DICOM Server](https://github.com/microsoft/dicom-server) ⭐ 512 | 🐛 16 | 🌐 C# | 📅 2026-08-28 - OSS Implementation of DICOMweb standard.
+* [DICOM Server](https://github.com/microsoft/dicom-server) ⭐ 512 | 🐛 18 | 🌐 C# | 📅 2026-08-29 - OSS Implementation of DICOMweb standard.
 * [Viv](https://github.com/hms-dbmi/viv) ⭐ 359 | 🐛 71 | 🌐 JavaScript | 📅 2026-08-10 - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
 * [Kaapana](https://github.com/kaapana/kaapana) ⭐ 274 | 🐛 7 | 🌐 Python | 📅 2026-08-28 - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
 * [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) ⭐ 235 | 🐛 30 | 🌐 C# | 📅 2023-12-15 - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
@@ -229,7 +229,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) ⚠️ Archived - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
 * [EDS\_NLP](https://github.com/aphp/edsnlp) ⭐ 165 | 🐛 45 | 🌐 Python | 📅 2026-08-26 - provides a set of spaCy components to extract information from clinical notes written in French
 * [eds-scikit](https://github.com/aphp/eds-scikit) ⭐ 45 | 🐛 14 | 🌐 Python | 📅 2024-12-19 - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data.
-* [Atlas BI Library](https://github.com/atlas-bi/Library) ⭐ 17 | 🐛 83 | 🌐 TSQL | 📅 2026-08-27 The unified report library.
+* [Atlas BI Library](https://github.com/atlas-bi/Library) ⭐ 17 | 🐛 83 | 🌐 TSQL | 📅 2026-08-29 The unified report library.
 * [Cedar](https://github.com/mitre/cedar) ⭐ 8 | 🐛 2 | 🌐 Ruby | 📅 2017-09-13 - Open source tool for testing the strength of Electronic Clinical Quality Measure.
 * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
 * [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
@@ -252,7 +252,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 ### Machine learning
 
 * [MONAI](https://github.com/Project-MONAI/MONAI) ⭐ 8,641 | 🐛 530 | 🌐 Python | 📅 2026-08-28 - AI Toolkit for Healthcare Imaging.
-* [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) ⭐ 5,757 | 🐛 6 | 🌐 Python | 📅 2026-06-03 - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
+* [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) ⭐ 5,759 | 🐛 6 | 🌐 Python | 📅 2026-06-03 - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
 * [PyHealth](https://github.com/sunlabuiuc/PyHealth) ⭐ 1,650 | 🐛 95 | 🌐 Python | 📅 2026-08-20 - A Deep Learning Python Toolkit for Healthcare Application.
 * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
 
