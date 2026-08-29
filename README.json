@@ -12,11 +12,12 @@
             "archived": false,
             "id": 1864233,
             "language": "Python",
-            "last_commit": "2026-08-27T17:40:08Z",
+            "last_commit": "2026-08-28T15:05:25Z",
             "owner": "frappe",
             "repo": "erpnext",
-            "stars": 38577
-          }
+            "stars": 38612
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 360238600,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:49:01Z",
+            "last_commit": "2026-08-29T00:23:26Z",
             "owner": "medplum",
             "repo": "medplum",
-            "stars": 2633
-          }
+            "stars": 2635
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -42,11 +44,12 @@
             "archived": false,
             "id": 694347760,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T20:52:06Z",
+            "last_commit": "2026-08-28T20:33:57Z",
             "owner": "masslight",
             "repo": "ottehr",
             "stars": 331
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "OCA",
             "repo": "vertical-medical",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "ppazos",
             "repo": "cabolabs-ehrserver",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "IMS-MAXIMS",
             "repo": "openMAXIMS",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "jact",
             "repo": "openclinic",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "EHR"
@@ -123,11 +130,12 @@
             "archived": false,
             "id": 44164233,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T19:19:51Z",
+            "last_commit": "2026-08-28T14:43:11Z",
             "owner": "OHIF",
             "repo": "Viewers",
-            "stars": 4310
-          }
+            "stars": 4312
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -142,7 +150,8 @@
             "owner": "cornerstonejs",
             "repo": "cornerstone",
             "stars": 2108
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -157,7 +166,8 @@
             "owner": "rii-mango",
             "repo": "Papaya",
             "stars": 583
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "dicoogle",
             "repo": "dicoogle",
             "stars": 527
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -187,7 +198,8 @@
             "owner": "openslide",
             "repo": "openslide",
             "stars": 516
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -198,11 +210,12 @@
             "archived": false,
             "id": 187111872,
             "language": "C#",
-            "last_commit": "2026-08-27T20:05:22Z",
+            "last_commit": "2026-08-28T22:38:21Z",
             "owner": "microsoft",
             "repo": "dicom-server",
             "stars": 512
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -217,7 +230,8 @@
             "owner": "hms-dbmi",
             "repo": "viv",
             "stars": 359
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -228,11 +242,12 @@
             "archived": false,
             "id": 285529340,
             "language": "Python",
-            "last_commit": "2026-08-27T14:58:00Z",
+            "last_commit": "2026-08-28T19:14:08Z",
             "owner": "kaapana",
             "repo": "kaapana",
             "stars": 274
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "DICOMcloud",
             "repo": "DICOMcloud",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "ome",
             "repo": "openmicroscopy",
             "stars": 222
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -277,7 +294,8 @@
             "owner": "nci",
             "repo": "drishti",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -288,11 +306,12 @@
             "archived": false,
             "id": 335130719,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T21:17:30Z",
+            "last_commit": "2026-08-28T17:33:01Z",
             "owner": "ImagingDataCommons",
             "repo": "slim",
             "stars": 166
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Imaging"
@@ -313,7 +332,8 @@
             "owner": "ResearchKit",
             "repo": "ResearchKit",
             "stars": 5744
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "carekit-apple",
             "repo": "CareKit",
             "stars": 2526
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -339,11 +360,12 @@
             "archived": false,
             "id": 145907688,
             "language": "TSQL",
-            "last_commit": "2026-08-27T22:22:29Z",
+            "last_commit": "2026-08-28T23:35:19Z",
             "owner": "microsoft",
             "repo": "fhir-server",
             "stars": 1378
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -357,8 +379,9 @@
             "last_commit": "2024-04-18T14:50:56Z",
             "owner": "LinuxForHealth",
             "repo": "FHIR",
-            "stars": 372
-          }
+            "stars": 373
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -372,8 +395,9 @@
             "last_commit": "2026-08-26T03:30:49Z",
             "owner": "cqframework",
             "repo": "clinical_quality_language",
-            "stars": 328
-          }
+            "stars": 329
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "awslabs",
             "repo": "fhir-works-on-aws-deployment",
             "stars": 300
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "FirelyTeam",
             "repo": "spark",
             "stars": 283
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -414,11 +440,12 @@
             "archived": false,
             "id": 178375913,
             "language": "Clojure",
-            "last_commit": "2026-08-27T13:30:58Z",
+            "last_commit": "2026-08-28T17:57:03Z",
             "owner": "samply",
             "repo": "blaze",
             "stars": 227
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "FHIR",
             "repo": "sushi",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "smart-on-fhir",
             "repo": "Swift-SMART",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "intervention-engine",
             "repo": "fhir",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "smart-on-fhir",
             "repo": "api-server",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "VectorInstitute",
             "repo": "cyclops",
             "stars": 95
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "microsoft",
             "repo": "fhir-proxy",
             "stars": 74
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "medblocks",
             "repo": "medblocks-ui",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Frameworks"
@@ -540,11 +574,12 @@
             "archived": false,
             "id": 21180741,
             "language": "Java",
-            "last_commit": "2026-08-27T23:53:02Z",
+            "last_commit": "2026-08-29T00:16:01Z",
             "owner": "hapifhir",
             "repo": "hapi-fhir",
-            "stars": 2390
-          }
+            "stars": 2391
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -559,7 +594,8 @@
             "owner": "fo-dicom",
             "repo": "fo-dicom",
             "stars": 1210
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -574,7 +610,8 @@
             "owner": "mlmed",
             "repo": "torchxrayvision",
             "stars": 1185
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -589,7 +626,8 @@
             "owner": "suyashkumar",
             "repo": "dicom",
             "stars": 1081
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -603,8 +641,9 @@
             "last_commit": "2026-08-27T04:51:54Z",
             "owner": "google",
             "repo": "fhir",
-            "stars": 949
-          }
+            "stars": 950
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -618,8 +657,9 @@
             "last_commit": "2026-08-26T15:58:37Z",
             "owner": "FirelyTeam",
             "repo": "firely-net-sdk",
-            "stars": 931
-          }
+            "stars": 932
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -633,8 +673,9 @@
             "last_commit": "2026-08-28T00:46:05Z",
             "owner": "metriport",
             "repo": "metriport",
-            "stars": 772
-          }
+            "stars": 773
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -649,7 +690,8 @@
             "owner": "smart-on-fhir",
             "repo": "client-py",
             "stars": 694
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -664,7 +706,8 @@
             "owner": "ohs-foundation",
             "repo": "android-fhir",
             "stars": 599
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "pydicom",
             "repo": "pynetdicom",
             "stars": 570
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -693,8 +737,9 @@
             "last_commit": "2026-05-20T12:57:45Z",
             "owner": "datamol-io",
             "repo": "datamol",
-            "stars": 545
-          }
+            "stars": 546
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "FHIR",
             "repo": "fhir.js",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "bluehalo",
             "repo": "node-fhir-server-core",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "theislab",
             "repo": "ehrapy",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "johnpaulett",
             "repo": "python-hl7",
             "stars": 319
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "wardle",
             "repo": "hermes",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "apple",
             "repo": "FHIRModels",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "rexcardan",
             "repo": "Evil-DICOM",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "Vermonster",
             "repo": "fhir-kit-client",
             "stars": 184
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "inferno-framework",
             "repo": "fhir_client",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "dcarbone",
             "repo": "php-fhir",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "keiron-stoddart",
             "repo": "edi-835-parser",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "segfault",
             "repo": "ruby-hl7",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -885,11 +942,12 @@
             "archived": false,
             "id": 109308060,
             "language": "Java",
-            "last_commit": "2026-08-27T14:57:54Z",
+            "last_commit": "2026-08-28T12:18:10Z",
             "owner": "openEHR",
             "repo": "archie",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -904,7 +962,8 @@
             "owner": "microsoft",
             "repo": "Graphir",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -919,7 +978,8 @@
             "owner": "MatthewVita",
             "repo": "node-hl7-complete",
             "stars": 59
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -934,7 +994,8 @@
             "owner": "RedoxEngine",
             "repo": "redox-hl7-v2",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1010,8 @@
             "owner": "jembi",
             "repo": "hearth",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1026,8 @@
             "owner": "itsbalamurali",
             "repo": "rust-fhir",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1042,8 @@
             "owner": "uk-fci",
             "repo": "nhs-number",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1058,8 @@
             "owner": "projectcypress",
             "repo": "health-data-standards",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Libraries"
@@ -1015,7 +1080,8 @@
             "owner": "smart-on-fhir",
             "repo": "growth-chart-app",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1096,8 @@
             "owner": "intervention-engine",
             "repo": "ie",
             "stars": 34
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Applications"
@@ -1051,7 +1118,8 @@
             "owner": "fastenhealth",
             "repo": "fasten-onprem",
             "stars": 2793
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1066,7 +1134,8 @@
             "owner": "healthlocker",
             "repo": "healthlocker",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "PHR"
@@ -1083,11 +1152,12 @@
             "archived": false,
             "id": 1086572146,
             "language": "Python",
-            "last_commit": "2026-08-27T14:39:23Z",
+            "last_commit": "2026-08-28T13:28:26Z",
             "owner": "the-momentum",
             "repo": "open-wearables",
-            "stars": 2411
-          }
+            "stars": 2418
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1101,8 +1171,9 @@
             "last_commit": "2024-09-23T16:32:01Z",
             "owner": "nextgenhealthcare",
             "repo": "connect",
-            "stars": 1190
-          }
+            "stars": 1191
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1117,7 +1188,8 @@
             "owner": "microsoft",
             "repo": "FHIR-Converter",
             "stars": 525
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1132,7 +1204,8 @@
             "owner": "GoogleCloudPlatform",
             "repo": "healthcare-data-harmonization",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1146,8 +1219,9 @@
             "last_commit": "2026-08-17T09:26:37Z",
             "owner": "oehf",
             "repo": "ipf",
-            "stars": 192
-          }
+            "stars": 193
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Integration"
@@ -1168,7 +1242,8 @@
             "owner": "bigdatagenomics",
             "repo": "adam",
             "stars": 1057
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1183,7 +1258,8 @@
             "owner": "bcbio",
             "repo": "bcbio-nextgen",
             "stars": 1030
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1198,7 +1274,8 @@
             "owner": "cafferychen777",
             "repo": "flashdeconv",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Bioinformatics"
@@ -1219,7 +1296,8 @@
             "owner": "synthetichealth",
             "repo": "synthea",
             "stars": 3318
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1234,7 +1312,8 @@
             "owner": "b2ihealthcare",
             "repo": "snow-owl",
             "stars": 292
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1248,8 +1327,9 @@
             "last_commit": "2026-08-26T14:30:47Z",
             "owner": "aphp",
             "repo": "edsnlp",
-            "stars": 164
-          }
+            "stars": 165
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1264,7 +1344,8 @@
             "owner": "aphp",
             "repo": "eds-scikit",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1279,7 +1360,8 @@
             "owner": "atlas-bi",
             "repo": "Library",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1294,7 +1376,8 @@
             "owner": "mitre",
             "repo": "cedar",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Data"
@@ -1314,8 +1397,9 @@
             "last_commit": "2026-07-28T12:32:07Z",
             "owner": "resolvetosavelives",
             "repo": "healthicons",
-            "stars": 852
-          }
+            "stars": 853
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1329,8 +1413,9 @@
             "last_commit": "2022-02-04T16:00:01Z",
             "owner": "goinvo",
             "repo": "HealthDeterminants",
-            "stars": 93
-          }
+            "stars": 94
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Design"
@@ -1347,11 +1432,12 @@
             "archived": false,
             "id": 214485001,
             "language": "Python",
-            "last_commit": "2026-08-26T13:54:22Z",
+            "last_commit": "2026-08-28T23:24:40Z",
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8636
-          }
+            "stars": 8641
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1365,8 +1451,9 @@
             "last_commit": "2026-06-03T03:39:57Z",
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5753
-          }
+            "stars": 5757
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1381,7 +1468,8 @@
             "owner": "sunlabuiuc",
             "repo": "PyHealth",
             "stars": 1650
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Machine learning"
@@ -1398,11 +1486,12 @@
             "archived": false,
             "id": 6001800,
             "language": "Groovy",
-            "last_commit": "2026-08-27T19:08:03Z",
+            "last_commit": "2026-08-28T16:35:10Z",
             "owner": "openboxes",
             "repo": "openboxes",
             "stars": 884
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         },
         {
           "node_type": "item",
@@ -1417,14 +1506,15 @@
             "owner": "seattleflu",
             "repo": "id3c",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-29T00:35:32.499Z"
         }
       ],
       "title": "Logistics"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:59:57.834Z",
+    "last_updated": "2026-08-29T00:35:32.499Z",
     "original_repository_info": {
       "archived": false,
       "id": 52342167,
@@ -1432,7 +1522,7 @@
       "last_commit": "2026-05-05T10:41:03Z",
       "owner": "kakoni",
       "repo": "awesome-healthcare",
-      "stars": 3952
+      "stars": 3953
     },
     "original_repository_sha": "c799138661a78faf0f0ee3eba6d657770988b6f2",
     "enhanced_repository": "enhansome/enhansome-healthcare",
