@@ -32,9 +32,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### EHR
 
-* [ERPNext](https://github.com/frappe/erpnext) ⭐ 38,806 | 🐛 1,813 | 🌐 Python | 📅 2026-09-02 - Modules that help manage patients, appointments, consultations, lab tests, and billing.
-* [Medplum](https://github.com/medplum/medplum) ⭐ 2,649 | 🐛 628 | 🌐 TypeScript | 📅 2026-09-02 - Developer platform that enables flexible and rapid development of healthcare apps.
-* [Ottehr](https://github.com/masslight/ottehr) ⭐ 331 | 🐛 1,198 | 🌐 TypeScript | 📅 2026-09-02 - Modular, Production-Ready, Open-Source EHR
+* [ERPNext](https://github.com/frappe/erpnext) ⭐ 38,854 | 🐛 1,822 | 🌐 Python | 📅 2026-09-03 - Modules that help manage patients, appointments, consultations, lab tests, and billing.
+* [Medplum](https://github.com/medplum/medplum) ⭐ 2,651 | 🐛 628 | 🌐 TypeScript | 📅 2026-09-03 - Developer platform that enables flexible and rapid development of healthcare apps.
+* [Ottehr](https://github.com/masslight/ottehr) ⭐ 331 | 🐛 1,199 | 🌐 TypeScript | 📅 2026-09-03 - Modular, Production-Ready, Open-Source EHR
 * [Odoo Medical](https://github.com/OCA/vertical-medical) ⭐ 294 | 🐛 4 | 📅 2025-09-30 - Universal Health and Hospital Information System.
 * [EHRServer](https://github.com/ppazos/cabolabs-ehrserver) ⭐ 206 | 🐛 166 | 🌐 Groovy | 📅 2023-03-13 - CaboLabs EHRServer.
 * [openMAXIMS](https://github.com/IMS-MAXIMS/openMAXIMS) ⭐ 65 | 🐛 23 | 🌐 Java | 📅 2020-07-31 - Full Patient Administration System designed for the NHS.
@@ -79,15 +79,15 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Imaging
 
-* [OHIF](https://github.com/OHIF/Viewers) ⭐ 4,317 | 🐛 552 | 🌐 TypeScript | 📅 2026-09-02 - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
-* [Cornerstone](https://github.com/cornerstonejs/cornerstone) ⭐ 2,107 | 🐛 165 | 🌐 JavaScript | 📅 2024-03-07 - Open source project with a goal to deliver a complete web based medical imaging platform.
+* [OHIF](https://github.com/OHIF/Viewers) ⭐ 4,317 | 🐛 554 | 🌐 TypeScript | 📅 2026-09-03 - OHIF zero-footprint DICOM viewer and oncology specific Lesion Tracker.
+* [Cornerstone](https://github.com/cornerstonejs/cornerstone) ⭐ 2,106 | 🐛 165 | 🌐 JavaScript | 📅 2024-03-07 - Open source project with a goal to deliver a complete web based medical imaging platform.
 * [Papaya](https://github.com/rii-mango/Papaya) ⭐ 583 | 🐛 47 | 🌐 JavaScript | 📅 2024-06-10 - Pure JavaScript medical research image viewer.
 * [Dicoogle](https://github.com/bioinformatics-ua/dicoogle) ⭐ 529 | 🐛 61 | 🌐 Java | 📅 2026-07-15 - Dicoogle is an extensible, platform-independent and open-source PACS
-* [OpenSlide](https://github.com/openslide/openslide) ⭐ 516 | 🐛 101 | 🌐 C | 📅 2026-09-01 - is a C library for reading whole slide image files.
-* [DICOM Server](https://github.com/microsoft/dicom-server) ⭐ 512 | 🐛 18 | 🌐 C# | 📅 2026-08-31 - OSS Implementation of DICOMweb standard.
+* [OpenSlide](https://github.com/openslide/openslide) ⭐ 516 | 🐛 100 | 🌐 C | 📅 2026-09-02 - is a C library for reading whole slide image files.
+* [DICOM Server](https://github.com/microsoft/dicom-server) ⭐ 512 | 🐛 18 | 🌐 C# | 📅 2026-09-02 - OSS Implementation of DICOMweb standard.
 * [Viv](https://github.com/hms-dbmi/viv) ⭐ 360 | 🐛 73 | 🌐 JavaScript | 📅 2026-09-01 - multiscale visualization of high-resolution multiplexed bioimaging data on the web.
-* [Kaapana](https://github.com/kaapana/kaapana) ⭐ 274 | 🐛 7 | 🌐 Python | 📅 2026-09-02 - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
-* [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) ⭐ 236 | 🐛 30 | 🌐 C# | 📅 2023-12-15 - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
+* [Kaapana](https://github.com/kaapana/kaapana) ⭐ 274 | 🐛 7 | 🌐 Python | 📅 2026-09-03 - Open source toolkit for state of the art platform provisioning in the field of medical data analysis.
+* [DICOMcloud](https://github.com/DICOMcloud/DICOMcloud) ⭐ 235 | 🐛 30 | 🌐 C# | 📅 2023-12-15 - A standalone DICOMweb server with RESTful implementation of the DICOMweb/WADO services.
 * [Omero](https://github.com/ome/openmicroscopy) ⭐ 222 | 🐛 31 | 🌐 Java | 📅 2026-08-21 - open source client/server system written in Java for visualizing, managing, and annotating microscope images and metadata
 * [Drishti](https://github.com/nci/drishti/wiki) ⭐ 204 | 🐛 71 | 🌐 C++ | 📅 2026-09-02 - Tomography and electron-microscopy data visualizer for both scientists and lay people.
 * [Slim](https://github.com/ImagingDataCommons/slim) ⭐ 166 | 🐛 72 | 🌐 TypeScript | 📅 2026-09-01 - Interoperable web viewer and annotation tool for computational pathology.
@@ -117,15 +117,15 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Frameworks
 
-* [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,744 | 🐛 150 | 🌐 Objective-C | 📅 2026-07-15 - Software framework that makes it easy to create apps for medical research or for other research projects.
+* [ResearchKit](https://github.com/ResearchKit/ResearchKit) ⭐ 5,743 | 🐛 150 | 🌐 Objective-C | 📅 2026-07-15 - Software framework that makes it easy to create apps for medical research or for other research projects.
 * [CareKit](https://github.com/carekit-apple/CareKit/) ⭐ 2,527 | 🐛 92 | 🌐 Swift | 📅 2026-04-03 - Open source software framework for creating apps that help people better understand and manage their health.
-* [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) ⭐ 1,379 | 🐛 146 | 🌐 TSQL | 📅 2026-09-02 - A .NET Core implementation of the FHIR standard.
+* [FHIR Server for Azure](https://github.com/Microsoft/fhir-server) ⭐ 1,379 | 🐛 146 | 🌐 TSQL | 📅 2026-09-03 - A .NET Core implementation of the FHIR standard.
 * [LinuxForHealth FHIR Server](https://github.com/LinuxForHealth/FHIR) ⭐ 373 | 🐛 370 | 🌐 Java | 📅 2024-04-18 - Modular Java implementation of version 4 of the HL7 FHIR specification.
-* [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) ⭐ 330 | 🐛 248 | 🌐 Kotlin | 📅 2026-09-01 - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
+* [Clinical Quality Language](https://github.com/cqframework/clinical_quality_language) ⭐ 330 | 🐛 251 | 🌐 Kotlin | 📅 2026-09-03 - Clinical Quality Language is a HL7 standard for the expression of clinical knowledge.
 * [FHIR Works on AWS](https://github.com/awslabs/fhir-works-on-aws-deployment) ⚠️ Archived - FHIR Works on AWS deployment.
-* [Spark](https://github.com/FirelyTeam/spark) ⭐ 283 | 🐛 38 | 🌐 C# | 📅 2026-09-02 - Public domain FHIR server developed in C#.
-* [Blaze](https://github.com/samply/blaze) ⭐ 227 | 🐛 189 | 🌐 Clojure | 📅 2026-09-02 - A FHIR Store with internal, fast CQL Evaluation Engine
-* [Sushi](https://github.com/FHIR/sushi) ⭐ 187 | 🐛 120 | 🌐 TypeScript | 📅 2026-09-01 - a reference implementation command-line interpreter/compiler for FHIR
+* [Spark](https://github.com/FirelyTeam/spark) ⭐ 283 | 🐛 36 | 🌐 C# | 📅 2026-09-03 - Public domain FHIR server developed in C#.
+* [Blaze](https://github.com/samply/blaze) ⭐ 227 | 🐛 187 | 🌐 Clojure | 📅 2026-09-03 - A FHIR Store with internal, fast CQL Evaluation Engine
+* [Sushi](https://github.com/FHIR/sushi) ⭐ 187 | 🐛 118 | 🌐 TypeScript | 📅 2026-09-03 - a reference implementation command-line interpreter/compiler for FHIR
 * [Swift-SMART](https://github.com/smart-on-fhir/Swift-SMART) ⭐ 139 | 🐛 17 | 🌐 Swift | 📅 2021-03-18 - Swift SMART on FHIR framework for iOS and OS X.
 * [Intervention Engine FHIR Server](https://github.com/intervention-engine/fhir) ⭐ 113 | 🐛 12 | 🌐 Go | 📅 2021-05-11 - Generic FHIR server implementation in GoLang.
 * [API Server](https://github.com/smart-on-fhir/api-server) ⭐ 112 | 🐛 6 | 🌐 Groovy | 📅 2017-10-17 - FHIR Server to support patient- and clinician-facing apps.
@@ -139,21 +139,21 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Libraries
 
-* [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) ⭐ 2,396 | 🐛 1,584 | 🌐 Java | 📅 2026-09-02 - Java API for HL7 FHIR Clients and Servers.
+* [HAPI FHIR](https://github.com/hapifhir/hapi-fhir) ⭐ 2,396 | 🐛 1,588 | 🌐 Java | 📅 2026-09-03 - Java API for HL7 FHIR Clients and Servers.
 * [Fellow Oak DICOM](https://github.com/fo-dicom/fo-dicom) ⭐ 1,211 | 🐛 74 | 🌐 C# | 📅 2026-09-01 - DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.
-* [TorchXRayVision](https://github.com/mlmed/torchxrayvision) ⭐ 1,188 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2026-08-24 - A library for chest X-ray datasets and models. Including pre-trained models.
-* [dicom](https://github.com/suyashkumar/dicom) ⭐ 1,082 | 🐛 135 | 🌐 Go | 📅 2026-06-21 - High Performance DICOM Medical Image Parser in GoLang.
-* [FHIR protocol buffers](https://github.com/google/fhir) ⭐ 951 | 🐛 35 | 🌐 C++ | 📅 2026-08-27 - A Google implementation of protocol buffers for FHIR.
-* [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) ⭐ 932 | 🐛 65 | 🌐 C# | 📅 2026-09-02 - The official .NET API for HL7 FHIR.
-* [Metriport](https://github.com/metriport/metriport) ⭐ 771 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-28 - Open-source universal API for healthcare data.
+* [TorchXRayVision](https://github.com/mlmed/torchxrayvision) ⭐ 1,190 | 🐛 35 | 🌐 Jupyter Notebook | 📅 2026-08-24 - A library for chest X-ray datasets and models. Including pre-trained models.
+* [dicom](https://github.com/suyashkumar/dicom) ⭐ 1,083 | 🐛 135 | 🌐 Go | 📅 2026-06-21 - High Performance DICOM Medical Image Parser in GoLang.
+* [FHIR protocol buffers](https://github.com/google/fhir) ⭐ 951 | 🐛 33 | 🌐 C++ | 📅 2026-09-03 - A Google implementation of protocol buffers for FHIR.
+* [FHIR .NET API](https://github.com/FirelyTeam/firely-net-sdk) ⭐ 932 | 🐛 67 | 🌐 C# | 📅 2026-09-03 - The official .NET API for HL7 FHIR.
+* [Metriport](https://github.com/metriport/metriport) ⭐ 773 | 🐛 70 | 🌐 TypeScript | 📅 2026-08-28 - Open-source universal API for healthcare data.
 * [Python SMART on FHIR client](https://github.com/smart-on-fhir/client-py) ⭐ 693 | 🐛 29 | 🌐 Python | 📅 2026-04-13 - Flexible Python client for FHIR servers supporting the SMART on FHIR protocol.
 * [Android FHIR SDK](https://github.com/google/android-fhir) ⭐ 598 | 🐛 352 | 🌐 Kotlin | 📅 2026-03-25 - The Android FHIR SDK
 * [pynetdicom](https://github.com/pydicom/pynetdicom) ⭐ 570 | 🐛 22 | 🌐 Python | 📅 2026-08-03 - A Python implementation of the DICOM networking protocol.
-* [Datamol](https://github.com/datamol-io/datamol) ⭐ 547 | 🐛 3 | 🌐 Python | 📅 2026-09-02 - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
+* [Datamol](https://github.com/datamol-io/datamol) ⭐ 547 | 🐛 3 | 🌐 Python | 📅 2026-09-03 - Molecular Manipulation Made Easy. A light Python wrapper build on top of RDKit.
 * [fhir.js](https://github.com/FHIR/fhir.js) ⚠️ Archived - JavaScript client for FHIR.
 * [Asymmetrik FHIR API Server](https://github.com/bluehalo/node-fhir-server-core) ⭐ 414 | 🐛 33 | 🌐 JavaScript | 📅 2026-02-15 - A secure REST implementation for the HL7 FHIR Specification.
 * [ehrapy](https://github.com/theislab/ehrapy/) ⭐ 361 | 🐛 25 | 🌐 Python | 📅 2026-08-31 - Electronic Health Record analysis in Python.
-* [Python HL7](https://github.com/johnpaulett/python-hl7) ⭐ 319 | 🐛 14 | 🌐 Python | 📅 2025-06-09 - Simple library for parsing messages of HL7 version 2.x into Python objects.
+* [Python HL7](https://github.com/johnpaulett/python-hl7) ⭐ 318 | 🐛 14 | 🌐 Python | 📅 2025-06-09 - Simple library for parsing messages of HL7 version 2.x into Python objects.
 * [Hermes](https://github.com/wardle/hermes) ⭐ 236 | 🐛 0 | 🌐 Clojure | 📅 2026-09-01 - a SNOMED CT terminology server.
 * [FHIRModels](https://github.com/apple/FHIRModels) ⭐ 208 | 🐛 10 | 🌐 Swift | 📅 2026-06-09 - FHIRModels is a Swift library for FHIR resource data models.
 * [Evil-DICOM](https://github.com/rexcardan/Evil-DICOM) ⭐ 190 | 🐛 26 | 🌐 C# | 📅 2024-08-20 - C# DICOM Library.
@@ -167,7 +167,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 * [Node HL7](https://github.com/MatthewVita/node-hl7-complete) ⭐ 59 | 🐛 4 | 🌐 JavaScript | 📅 2021-09-11 - Node module that is bridged with the Java Hapi HL7 library.
 * [Node-hl7-parser](https://github.com/RedoxEngine/redox-hl7-v2) ⭐ 53 | 🐛 4 | 🌐 JavaScript | 📅 2025-08-20 - Open source version of Redox's HL7 v2 to schema-fied JSON parser.
 * [Hearth](https://github.com/jembi/hearth) ⭐ 26 | 🐛 27 | 🌐 JavaScript | 📅 2022-12-22 - A fast FHIR-compliant server focused on longitudinal data stores.
-* [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) ⭐ 17 | 🐛 13 | 🌐 Starlark | 📅 2026-08-26 - Rust SDK for HL7 FHIR
+* [Rust FHIR](https://github.com/itsbalamurali/rust-fhir) ⭐ 17 | 🐛 13 | 🌐 Starlark | 📅 2026-09-03 - Rust SDK for HL7 FHIR
 * [nhs-numbers](https://github.com/uk-fci/nhs-number) ⭐ 13 | 🐛 9 | 🌐 Python | 📅 2026-08-21 - Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.
 * [Health data standards](https://github.com/projectcypress/health-data-standards) ⚠️ Archived - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
 * [DCMTK](https://dicom.offis.de/dcmtk.php.en) - DICOM Toolkit.
@@ -197,11 +197,11 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Integration
 
-* [OpenWearables](https://github.com/the-momentum/open-wearables) ⭐ 2,438 | 🐛 160 | 🌐 Python | 📅 2026-09-02 - Self-hosted platform to unify wearable health data through one AI-ready API.
-* [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) ⭐ 1,192 | 🐛 410 | 🌐 Java | 📅 2024-09-23 - The swiss army knife of healthcare integration.
+* [OpenWearables](https://github.com/the-momentum/open-wearables) ⭐ 2,444 | 🐛 167 | 🌐 Python | 📅 2026-09-03 - Self-hosted platform to unify wearable health data through one AI-ready API.
+* [NextGen Connect Integration Engine](https://github.com/nextgenhealthcare/connect) ⭐ 1,193 | 🐛 410 | 🌐 Java | 📅 2024-09-23 - The swiss army knife of healthcare integration.
 * [FHIR Converter](https://github.com/microsoft/FHIR-Converter) ⭐ 526 | 🐛 44 | 🌐 Liquid | 📅 2026-06-03 - an open source project that enables conversion of health data from legacy formats to FHIR.
 * [Google HCLS Data Harmonization](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) ⭐ 248 | 🐛 61 | 🌐 Java | 📅 2026-07-07 - an engine that converts data of one structure to another
-* [Open eHealth Integration Platform](https://github.com/oehf/ipf) ⭐ 193 | 🐛 13 | 🌐 Java | 📅 2026-09-02 - An extension of the Apache Camel routing and mediation engine
+* [Open eHealth Integration Platform](https://github.com/oehf/ipf) ⭐ 193 | 🐛 12 | 🌐 Java | 📅 2026-09-03 - An extension of the Apache Camel routing and mediation engine
 * [OpenHIM](http://openhim.org/) - Health information mediator.
 * [Zato](https://zato.io/en/industry/healthcare/index.html) - A Python-based ESB and integration platform for healthcare interoperability, automation and orchestration.
 
@@ -225,11 +225,11 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Data
 
-* [Synthea Patient Generator](https://github.com/synthetichealth/synthea) ⭐ 3,322 | 🐛 225 | 🌐 Java | 📅 2026-08-18 - Synthetic patient generator that models the medical history of synthetic patients.
+* [Synthea Patient Generator](https://github.com/synthetichealth/synthea) ⭐ 3,321 | 🐛 225 | 🌐 Java | 📅 2026-08-18 - Synthetic patient generator that models the medical history of synthetic patients.
 * [Snow Owl](https://github.com/b2ihealthcare/snow-owl) ⚠️ Archived - Highly scalable, open source terminology server with revision-control capabilities and collaborative authoring platform features.
-* [EDS\_NLP](https://github.com/aphp/edsnlp) ⭐ 165 | 🐛 47 | 🌐 Python | 📅 2026-09-02 - provides a set of spaCy components to extract information from clinical notes written in French
+* [EDS\_NLP](https://github.com/aphp/edsnlp) ⭐ 165 | 🐛 48 | 🌐 Python | 📅 2026-09-03 - provides a set of spaCy components to extract information from clinical notes written in French
 * [eds-scikit](https://github.com/aphp/eds-scikit) ⭐ 45 | 🐛 14 | 🌐 Python | 📅 2024-12-19 - a tool to assist data scientists working on the AP-HP's Clinical Data Warehouse. It is specifically targeted for OMOP-standardized data.
-* [Atlas BI Library](https://github.com/atlas-bi/Library) ⭐ 17 | 🐛 83 | 🌐 TSQL | 📅 2026-09-02 The unified report library.
+* [Atlas BI Library](https://github.com/atlas-bi/Library) ⭐ 17 | 🐛 80 | 🌐 TSQL | 📅 2026-09-03 The unified report library.
 * [Cedar](https://github.com/mitre/cedar) ⭐ 8 | 🐛 2 | 🌐 Ruby | 📅 2017-09-13 - Open source tool for testing the strength of Electronic Clinical Quality Measure.
 * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
 * [cTAKES](https://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
@@ -242,7 +242,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Design
 
-* [Health Icons](https://github.com/resolvetosavelives/healthicons) ⭐ 857 | 🐛 29 | 🌐 TypeScript | 📅 2026-07-28 - A collection of open source icons for public health projects.
+* [Health Icons](https://github.com/resolvetosavelives/healthicons) ⭐ 858 | 🐛 29 | 🌐 TypeScript | 📅 2026-07-28 - A collection of open source icons for public health projects.
 * [Determinants of Health](https://github.com/goinvo/HealthDeterminants) ⭐ 94 | 🐛 1 | 🌐 HTML | 📅 2022-02-04 - Determinants of Health Visualization.
 
 ### EMPI
@@ -251,8 +251,8 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Machine learning
 
-* [MONAI](https://github.com/Project-MONAI/MONAI) ⭐ 8,649 | 🐛 528 | 🌐 Python | 📅 2026-09-01 - AI Toolkit for Healthcare Imaging.
-* [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) ⭐ 5,771 | 🐛 6 | 🌐 Python | 📅 2026-06-03 - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
+* [MONAI](https://github.com/Project-MONAI/MONAI) ⭐ 8,652 | 🐛 530 | 🌐 Python | 📅 2026-09-03 - AI Toolkit for Healthcare Imaging.
+* [MedicalGPT](https://github.com/shibing624/MedicalGPT/blob/main/README_EN.md) ⭐ 5,775 | 🐛 6 | 🌐 Python | 📅 2026-06-03 - Training Your Own Medical GPT Model with ChatGPT Training Pipeline.
 * [PyHealth](https://github.com/sunlabuiuc/PyHealth) ⭐ 1,651 | 🐛 83 | 🌐 Python | 📅 2026-09-02 - A Deep Learning Python Toolkit for Healthcare Application.
 * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning.
 
@@ -262,10 +262,10 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Logistics
 
-* [OpenBoxes](https://github.com/openboxes/openboxes) ⭐ 886 | 🐛 189 | 🌐 Groovy | 📅 2026-09-02 - an Open Source Inventory and Supply Chain Management System.
+* [OpenBoxes](https://github.com/openboxes/openboxes) ⭐ 888 | 🐛 186 | 🌐 Groovy | 📅 2026-09-03 - an Open Source Inventory and Supply Chain Management System.
 * [ID3C](https://github.com/seattleflu/id3c) ⭐ 22 | 🐛 11 | 🌐 PLpgSQL | 📅 2023-12-06 - Data logistics system enabling real-time genomic epidemiology.
 * [OpenLMIS](https://openlmis.org) - Open source, web-based, electronic logistics management information system (LMIS) software, purpose-built to manage health commodity supply chains.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
