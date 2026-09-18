@@ -179,6 +179,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 * [SMART Pediatric Growth Chart](https://github.com/smart-on-fhir/growth-chart-app) ⚠️ Archived - Pediatric growth charts.
 * [Intervention Engine](https://github.com/intervention-engine/ie) ⭐ 34 | 🐛 2 | 🌐 Go | 📅 2017-09-28 - Provides a web-application for data-driven team huddles.
 * [Simple](https://github.com/simpledotorg/) - For clinicians to track patients with high blood pressure.
+* [Tai Chi Reset](https://taichi.silentdirectivellc.com/?utm_source=enhansome-healthcare&utm_medium=resource-directory) - A personalised 4-week gentle tai chi plan you follow in the browser, plus six free full-length guides (chair tai chi, balance after 60, a 5-minute shoulder reset) that need no signup. Paid plan is $4.99 for 14 days, then $19.99 every 4 weeks.
 
 ### PHR
 
