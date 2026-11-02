@@ -15,11 +15,11 @@
             "id": 1864233,
             "language": "Python",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T20:36:58Z",
-            "open_issues": 1459,
+            "last_commit": "2026-11-02T23:31:16Z",
+            "open_issues": 1465,
             "owner": "frappe",
             "repo": "erpnext",
-            "stars": 40830,
+            "stars": 40869,
             "topics": [
               "accounting",
               "asset-management",
@@ -53,11 +53,11 @@
             "id": 360238600,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T18:18:43Z",
-            "open_issues": 745,
+            "last_commit": "2026-11-02T23:13:13Z",
+            "open_issues": 756,
             "owner": "medplum",
             "repo": "medplum",
-            "stars": 2775,
+            "stars": 2777,
             "topics": [
               "ehr",
               "electronic-health-record",
@@ -76,6 +76,89 @@
         },
         {
           "node_type": "item",
+          "title": "Open Hospital",
+          "description": "Electronic Medical Record software for underprivileged rural hospitals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OH - Open Hospital is a free and open-source Electronic Health Record (EHR) software application. This repository is used to build its releases.",
+            "homepage": "https://www.open-hospital.org",
+            "id": 195297119,
+            "language": "Makefile",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-14T19:56:52Z",
+            "open_issues": 2,
+            "owner": "informatici",
+            "repo": "openhospital",
+            "stars": 638,
+            "topics": [
+              "hacktoberfest",
+              "healthcare",
+              "openhospital"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Marley",
+          "description": "Health information system built on the Frappe framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open Source, Enterprise and Modern Health Information System",
+            "homepage": "https://marley.frappe.cloud",
+            "id": 399456228,
+            "language": "Python",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-01T10:38:40Z",
+            "open_issues": 73,
+            "owner": "earthians",
+            "repo": "marley",
+            "stars": 555,
+            "topics": [
+              "ehr",
+              "emr",
+              "erp",
+              "erpnext",
+              "health",
+              "healthcare",
+              "hims",
+              "hmis",
+              "marley",
+              "opd"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CARE",
+          "description": "Digital public good for hospital administration and decentralized patient care.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Care is a Digital Public Good enabling Decentralized Administration of Healthcare.",
+            "homepage": "https://careapi.ohc.network/swagger",
+            "id": 247995671,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T17:00:34Z",
+            "open_issues": 79,
+            "owner": "ohcnetwork",
+            "repo": "care",
+            "stars": 419,
+            "topics": [
+              "digital-public-goods",
+              "hacktoberfest",
+              "healthcare",
+              "hmis"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "Ottehr",
           "description": "Modular, Production-Ready, Open-Source EHR",
           "children": [],
@@ -86,11 +169,11 @@
             "id": 694347760,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T10:18:21Z",
-            "open_issues": 1283,
+            "last_commit": "2026-11-02T20:18:19Z",
+            "open_issues": 1281,
             "owner": "masslight",
             "repo": "ottehr",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "ehr",
               "electronic-health-record",
@@ -141,6 +224,34 @@
         },
         {
           "node_type": "item",
+          "title": "BHIMA",
+          "description": "Hospital information and accounting system for rural hospitals.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A hospital information management application for rural Congolese hospitals",
+            "homepage": "https://docs.bhi.ma/",
+            "id": 49052669,
+            "language": "JavaScript",
+            "license": "GPL-2.0",
+            "last_commit": "2026-11-01T17:28:30Z",
+            "open_issues": 410,
+            "owner": "third-culture-software",
+            "repo": "bhima",
+            "stars": 234,
+            "topics": [
+              "congo-kinshasa",
+              "drc",
+              "healthcare",
+              "javascript",
+              "nodejs",
+              "rural-hospitals"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "EHRServer",
           "description": "CaboLabs EHRServer.",
           "children": [],
@@ -170,6 +281,58 @@
         },
         {
           "node_type": "item",
+          "title": "Beda EMR",
+          "description": "EMR built natively on FHIR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "EMR based on FHIR",
+            "homepage": null,
+            "id": 438770740,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-20T09:43:24Z",
+            "open_issues": 152,
+            "owner": "beda-software",
+            "repo": "fhir-emr",
+            "stars": 132,
+            "topics": [
+              "emr",
+              "fhir"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FerroEHR",
+          "description": "openEHR Clinical Data Repository written in Rust, with ITS-REST and AQL support on PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A pure-Rust openEHR Clinical Data Repository: ITS-REST 1.1.0, AQL 1.1, PostgreSQL 18-native storage.",
+            "homepage": "https://ferroehr.eu/",
+            "id": 1286429270,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-02T23:26:21Z",
+            "open_issues": 52,
+            "owner": "FerroHEALTH",
+            "repo": "FerroEHR",
+            "stars": 85,
+            "topics": [
+              "cdr",
+              "clinical-data",
+              "ehr",
+              "ferroehr",
+              "openehr",
+              "openehr-standard"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "openMAXIMS",
           "description": "Full Patient Administration System designed for the NHS.",
           "children": [],
@@ -191,6 +354,36 @@
         },
         {
           "node_type": "item",
+          "title": "Akello",
+          "description": "Integrated Mental Health Infrastructure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Healthcare OS for interoperability and AI-driven data processing",
+            "homepage": null,
+            "id": 708418117,
+            "language": "TypeScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-16T23:05:53Z",
+            "open_issues": 2,
+            "owner": "akello-io",
+            "repo": "akello",
+            "stars": 42,
+            "topics": [
+              "eventbus",
+              "graphql",
+              "kafka",
+              "kubernetes",
+              "microservices",
+              "python",
+              "react",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "OpenClinic",
           "description": "Medical Records System.",
           "children": [],
@@ -209,9 +402,107 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "GitEHR",
+          "description": "Patient-owned, self-hostable EHR stored as plain-text files in a Git repository. Append-only journal, immutable documents, offline-first, no database.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Git-based, decentralised, open-source, multi-contributor Electronic Health Record",
+            "homepage": "https://gitehr.org/",
+            "id": 643941062,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-02T12:23:19Z",
+            "open_issues": 12,
+            "owner": "gitehr",
+            "repo": "gitehr",
+            "stars": 6,
+            "topics": [
+              "decentralised",
+              "ehr",
+              "git",
+              "opensource"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         }
       ],
       "title": "EHR"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenScribe",
+          "description": "Open source, local-first medical scribe platform for recording clinical encounters, transcribing audio, and generating structured draft clinical notes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "OpenScribe is an open-source AI scribe that records patient encounters and generates structured clinical notes automatically. You keep full control over data, workflows, and patient privacy with no vendor lock-in.",
+            "homepage": "https://openscribe.org",
+            "id": 1104352527,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-10-29T22:11:01Z",
+            "open_issues": 8,
+            "owner": "sammargolis",
+            "repo": "OpenScribe",
+            "stars": 225,
+            "topics": [
+              "ai",
+              "clinical",
+              "clinical-informatics",
+              "ehr",
+              "electron",
+              "healthcare",
+              "healthcare-application",
+              "healthtech",
+              "llm",
+              "local-first",
+              "medtech",
+              "open-source",
+              "privacy",
+              "self-hosted",
+              "typescript"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Phlox",
+          "description": "Open source (MIT), self-hosted AI medical scribe with realtime note drafting, RAG, and MCP-extensible agents; runs as a desktop app or Docker image.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open source, local first AI medical agent for desktop and web.",
+            "homepage": "https://phlox.bloodworks.io",
+            "id": 856920259,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T22:56:53Z",
+            "open_issues": 19,
+            "owner": "bloodworks-io",
+            "repo": "phlox",
+            "stars": 110,
+            "topics": [
+              "llamacpp",
+              "macos",
+              "medical",
+              "ollama",
+              "rag",
+              "scribe",
+              "whisper"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        }
+      ],
+      "title": "Scribe"
     },
     {
       "description": null,
@@ -228,11 +519,11 @@
             "id": 44164233,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T20:47:30Z",
+            "last_commit": "2026-11-02T16:36:33Z",
             "open_issues": 606,
             "owner": "OHIF",
             "repo": "Viewers",
-            "stars": 4393,
+            "stars": 4394,
             "topics": [
               "cancer-imaging-research",
               "dicom",
@@ -256,30 +547,242 @@
         },
         {
           "node_type": "item",
-          "title": "Cornerstone",
-          "description": "Open source project with a goal to deliver a complete web based medical imaging platform.",
+          "title": "QuPath",
+          "description": "Bioimage analysis and whole slide image analysis for digital pathology.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "[Deprecated] Use Cornerstone3D Instead https://cornerstonejs.org/",
-            "homepage": null,
-            "id": 17848424,
-            "language": "JavaScript",
-            "license": "MIT",
-            "last_commit": "2024-03-07T09:58:47Z",
-            "open_issues": 165,
-            "owner": "cornerstonejs",
-            "repo": "cornerstone",
-            "stars": 2107,
+            "description": "QuPath - Open-source bioimage analysis for research",
+            "homepage": "https://qupath.github.io",
+            "id": 66772740,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-27T10:23:03Z",
+            "open_issues": 36,
+            "owner": "qupath",
+            "repo": "qupath",
+            "stars": 1469,
             "topics": [
-              "cornerstone",
-              "dicom",
-              "javascript",
-              "medical-imaging",
-              "nci-itcr"
+              "bioimage-analysis",
+              "bioimage-informatics",
+              "cell-analysis",
+              "cell-segmentation",
+              "computational-pathology",
+              "digital-pathology",
+              "groovy",
+              "histology",
+              "image-processing",
+              "imagej",
+              "javafx",
+              "machine-learning",
+              "opencv",
+              "pathology",
+              "tissue-microarray-analysis",
+              "whole-slide-imaging"
             ]
           },
-          "first_seen": "2026-08-29T00:35:32.499Z"
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Weasis",
+          "description": "Standalone and web-based DICOM viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.",
+            "homepage": "https://weasis.org",
+            "id": 3484241,
+            "language": "Java",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-01T06:20:17Z",
+            "open_issues": 40,
+            "owner": "nroduit",
+            "repo": "Weasis",
+            "stars": 1432,
+            "topics": [
+              "dicom",
+              "dicom-image",
+              "dicom-image-viewer",
+              "dicom-images",
+              "dicom-pr",
+              "dicom-rt",
+              "dicom-seg",
+              "dicom-viewer",
+              "dicom-web-viewer",
+              "dicomweb",
+              "ecg",
+              "export-dicom",
+              "medical",
+              "medical-imaging",
+              "multiplanar-reconstruction",
+              "viewer",
+              "volume-rendering",
+              "weasis"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dcm2niix",
+          "description": "DICOM to NIfTI converter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "dcm2nii DICOM to NIfTI converter: compiled versions available from NITRC",
+            "homepage": "https://www.nitrc.org/plugins/mwiki/index.php/dcm2nii:MainPage",
+            "id": 25434012,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-31T16:52:29Z",
+            "open_issues": 0,
+            "owner": "rordenlab",
+            "repo": "dcm2niix",
+            "stars": 1210,
+            "topics": [
+              "bids-format",
+              "dcm",
+              "dcm2niix",
+              "dicom",
+              "dicom-images",
+              "gz",
+              "jpeg",
+              "jpeg-image",
+              "mri",
+              "mri-images",
+              "mricrogl",
+              "neuroimaging",
+              "neuroscience",
+              "nifti",
+              "nifti-format",
+              "nii",
+              "nitrc",
+              "research"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Cornerstone3D",
+          "description": "JavaScript libraries for building web-based medical imaging platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications. It provides a framework to build radiology applications such as the OHIF Viewer.",
+            "homepage": "https://cornerstonejs.org",
+            "id": 472313202,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-11-02T22:09:29Z",
+            "open_issues": 590,
+            "owner": "cornerstonejs",
+            "repo": "cornerstone3D",
+            "stars": 1162,
+            "topics": [
+              "cornerstone",
+              "javascript",
+              "medical-imaging",
+              "nci-itcr",
+              "segmentation"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MONAI Label",
+          "description": "AI-assisted image labeling tool that works with 3D Slicer and OHIF.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MONAI Label is an intelligent open source image labeling and learning tool.",
+            "homepage": "https://monai.readthedocs.io/projects/label/en/latest/",
+            "id": 351826770,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-29T19:42:42Z",
+            "open_issues": 173,
+            "owner": "Project-MONAI",
+            "repo": "MONAILabel",
+            "stars": 908,
+            "topics": [
+              "3d",
+              "3d-slicer-extension",
+              "active-learning",
+              "deep-learning",
+              "machine-learning",
+              "medical-imaging",
+              "monai",
+              "pytorch",
+              "segmentation"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Horos",
+          "description": "Medical image viewer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Horos™ is a free, open source medical image viewer. The goal of the Horos Project is to develop a fully functional, 64-bit medical image viewer for OS X.  Horos is based upon OsiriX and other open source medical imaging libraries. Horos is made freely available under the GNU Lesser General Public License, Version 3 (LGPL-3.0).  Horos is linked against the Grok JPEG 2000 library, for fast viewing of JPEG 2000 images. This library is licensed under the terms of the GNU Affero General Public License.",
+            "homepage": "http://www.horosproject.org",
+            "id": 30086620,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-02-09T00:01:30Z",
+            "open_issues": 560,
+            "owner": "horosproject",
+            "repo": "horos",
+            "stars": 643,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MedPy",
+          "description": "Python library for medical image processing, supporting DICOM and NIfTI formats with tools for segmentation, filtering, and feature extraction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Medical image processing in Python",
+            "homepage": "http://loli.github.io/medpy/",
+            "id": 4295983,
+            "language": "Jupyter Notebook",
+            "license": "GPL-3.0",
+            "last_commit": "2024-09-03T23:00:22Z",
+            "open_issues": 5,
+            "owner": "loli",
+            "repo": "medpy",
+            "stars": 623,
+            "topics": [
+              "2d",
+              "3d",
+              "4d",
+              "computed-tomography",
+              "dicom",
+              "feature-extraction",
+              "graph-cut",
+              "image-classification",
+              "image-processing",
+              "image-segmentation",
+              "itk",
+              "machine-learning",
+              "magnetic-resonance-imaging",
+              "medical",
+              "medpy",
+              "mha",
+              "mhd",
+              "nifti-format",
+              "python",
+              "simpleitk"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -297,7 +800,7 @@
             "open_issues": 48,
             "owner": "rii-mango",
             "repo": "Papaya",
-            "stars": 583,
+            "stars": 582,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
@@ -349,7 +852,7 @@
             "id": 827644,
             "language": "C",
             "license": "LGPL-2.1",
-            "last_commit": "2026-10-11T02:35:26Z",
+            "last_commit": "2026-11-02T02:32:38Z",
             "open_issues": 102,
             "owner": "openslide",
             "repo": "openslide",
@@ -378,7 +881,7 @@
             "open_issues": 19,
             "owner": "microsoft",
             "repo": "dicom-server",
-            "stars": 517,
+            "stars": 516,
             "topics": [
               "azure",
               "dicom",
@@ -421,6 +924,34 @@
         },
         {
           "node_type": "item",
+          "title": "PyMedPhys",
+          "description": "Community library for medical physics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A community effort to develop an open standard library for Medical Physics in Python. Building quality transparent software together via peer review and open source distribution. Open code is better science.",
+            "homepage": "https://docs.pymedphys.com",
+            "id": 168238552,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T23:19:47Z",
+            "open_issues": 118,
+            "owner": "pymedphys",
+            "repo": "pymedphys",
+            "stars": 368,
+            "topics": [
+              "dicom",
+              "medical-physics",
+              "radiation-oncology",
+              "radiation-physics",
+              "radiation-therapy",
+              "radiotherapy"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "Kaapana",
           "description": "Open source toolkit for state of the art platform provisioning in the field of medical data analysis.",
           "children": [],
@@ -431,7 +962,7 @@
             "id": 285529340,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-01T20:03:04Z",
+            "last_commit": "2026-11-02T14:42:11Z",
             "open_issues": 1,
             "owner": "kaapana",
             "repo": "kaapana",
@@ -447,6 +978,33 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "highdicom",
+          "description": "High-level DICOM abstractions for Python, including segmentations, structured reports and annotations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "High-level DICOM abstractions for the Python programming language ",
+            "homepage": "https://highdicom.readthedocs.io",
+            "id": 200103563,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T17:09:01Z",
+            "open_issues": 40,
+            "owner": "ImagingDataCommons",
+            "repo": "highdicom",
+            "stars": 241,
+            "topics": [
+              "dicom",
+              "numpy",
+              "pydicom",
+              "python3",
+              "typehints"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -556,9 +1114,146 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mercure",
+          "description": "DICOM orchestrator for routing and processing imaging studies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "mercure DICOM Orchestrator",
+            "homepage": "https://mercure-imaging.org",
+            "id": 250666613,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-02T17:29:18Z",
+            "open_issues": 18,
+            "owner": "mercure-imaging",
+            "repo": "mercure",
+            "stars": 104,
+            "topics": [
+              "ai",
+              "deep-learning",
+              "dicom",
+              "medical",
+              "medical-image-processing",
+              "medical-imaging",
+              "open-source",
+              "routing"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SlicerDMRI",
+          "description": "Extension for 3D Slicer focused on diffusion MRI analysis and visualization, supporting neuroscience research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Diffusion MRI analysis and visualization in 3D Slicer open source medical imaging platform.",
+            "homepage": "http://dmri.slicer.org",
+            "id": 46566822,
+            "language": "C++",
+            "license": "NOASSERTION",
+            "last_commit": "2026-04-11T14:28:56Z",
+            "open_issues": 69,
+            "owner": "SlicerDMRI",
+            "repo": "SlicerDMRI",
+            "stars": 86,
+            "topics": [
+              "3d-slicer",
+              "3d-slicer-extension",
+              "diffusion-mri",
+              "medical-image-computing",
+              "neuroimaging",
+              "tractography"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         }
       ],
       "title": "Imaging"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DentalPin",
+          "description": "Dental practice management with an AI agent that runs real operations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The open source agentic dental software. Built for AI.",
+            "homepage": "https://www.dentalpin.com",
+            "id": 1196342835,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-28T11:58:59Z",
+            "open_issues": 56,
+            "owner": "dentalpin",
+            "repo": "dentalpin",
+            "stars": 110,
+            "topics": [
+              "agentic-ai",
+              "ai-agent",
+              "clinic-management",
+              "dental",
+              "dental-software",
+              "dentistry",
+              "ehr",
+              "emr",
+              "fastapi",
+              "healthcare",
+              "mcp",
+              "nuxtjs",
+              "odontogram",
+              "open-source",
+              "postgresql",
+              "practice-management",
+              "self-hosted",
+              "spain",
+              "verifactu",
+              "vue3"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        }
+      ],
+      "title": "Dental"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MISO",
+          "description": "Laboratory information management system for NGS sequencing centres.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MISO: An open-source LIMS for NGS sequencing centres",
+            "homepage": "https://miso-lims.readthedocs.io",
+            "id": 4726428,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-02T05:05:03Z",
+            "open_issues": 19,
+            "owner": "miso-lims",
+            "repo": "miso-lims",
+            "stars": 316,
+            "topics": [
+              "docker",
+              "genomics",
+              "lims"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        }
+      ],
+      "title": "Laboratory"
     },
     {
       "description": null,
@@ -626,14 +1321,35 @@
             "id": 145907688,
             "language": "TSQL",
             "license": "MIT",
-            "last_commit": "2026-11-01T18:09:40Z",
-            "open_issues": 151,
+            "last_commit": "2026-11-02T23:35:08Z",
+            "open_issues": 148,
             "owner": "microsoft",
             "repo": "fhir-server",
             "stars": 1390,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HAPI FHIR JPA Server Starter",
+          "description": "Ready-to-deploy FHIR server built on HAPI FHIR.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 142366775,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T21:39:54Z",
+            "open_issues": 60,
+            "owner": "hapifhir",
+            "repo": "hapi-fhir-jpaserver-starter",
+            "stars": 544,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -680,7 +1396,7 @@
             "open_issues": 270,
             "owner": "cqframework",
             "repo": "clinical_quality_language",
-            "stars": 337,
+            "stars": 338,
             "topics": [
               "cds",
               "clinical-data",
@@ -733,6 +1449,35 @@
         },
         {
           "node_type": "item",
+          "title": "Opal",
+          "description": "Framework for building clinical applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A web framework for building highly usable healthcare applications.",
+            "homepage": "http://opal.openhealthcare.org.uk/",
+            "id": 10037542,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2023-11-05T10:38:33Z",
+            "open_issues": 104,
+            "owner": "openhealthcare",
+            "repo": "opal",
+            "stars": 288,
+            "topics": [
+              "angular",
+              "django",
+              "health",
+              "healthcare",
+              "javascript",
+              "opal",
+              "python"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "Spark",
           "description": "Public domain FHIR server developed in C#.",
           "children": [],
@@ -773,6 +1518,35 @@
         },
         {
           "node_type": "item",
+          "title": "Spezi",
+          "description": "Stanford framework for building interoperable digital health apps on Apple platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Open-source framework for rapid development of modern, interoperable digital health applications.",
+            "homepage": "https://swiftpackageindex.com/StanfordSpezi/Spezi/documentation",
+            "id": 549199889,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-10-07T18:22:44Z",
+            "open_issues": 13,
+            "owner": "StanfordSpezi",
+            "repo": "Spezi",
+            "stars": 261,
+            "topics": [
+              "digital-health",
+              "digitalhealth",
+              "fhir",
+              "spezi",
+              "stanford",
+              "swift",
+              "swiftui"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "Blaze",
           "description": "A FHIR Store with internal, fast CQL Evaluation Engine",
           "children": [],
@@ -783,7 +1557,7 @@
             "id": 178375913,
             "language": "Clojure",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-01T19:16:42Z",
+            "last_commit": "2026-11-02T22:26:34Z",
             "open_issues": 235,
             "owner": "samply",
             "repo": "blaze",
@@ -993,11 +1767,11 @@
             "id": 21180741,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T17:06:45Z",
+            "last_commit": "2026-11-02T23:31:55Z",
             "open_issues": 1681,
             "owner": "hapifhir",
             "repo": "hapi-fhir",
-            "stars": 2424,
+            "stars": 2425,
             "topics": [
               "apps",
               "fhir",
@@ -1013,6 +1787,31 @@
         },
         {
           "node_type": "item",
+          "title": "Pydicom",
+          "description": "Pure Python package for working with DICOM files, enabling reading, writing, and manipulation of medical imaging data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Read, modify and write DICOM files with python code",
+            "homepage": "https://pydicom.github.io/pydicom/dev",
+            "id": 14006067,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-02T18:04:33Z",
+            "open_issues": 71,
+            "owner": "pydicom",
+            "repo": "pydicom",
+            "stars": 2230,
+            "topics": [
+              "dicom",
+              "pydicom",
+              "python"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "Fellow Oak DICOM",
           "description": "DICOM for .NET, .NET Core, Universal Windows, Android, iOS, Mono, and Unity.",
           "children": [],
@@ -1023,7 +1822,7 @@
             "id": 35329761,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-01T14:27:30Z",
+            "last_commit": "2026-11-02T18:55:48Z",
             "open_issues": 82,
             "owner": "fo-dicom",
             "repo": "fo-dicom",
@@ -1159,11 +1958,11 @@
             "id": 13908616,
             "language": "C#",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T09:06:10Z",
-            "open_issues": 70,
+            "last_commit": "2026-11-02T18:16:08Z",
+            "open_issues": 71,
             "owner": "FirelyTeam",
             "repo": "firely-net-sdk",
-            "stars": 940,
+            "stars": 941,
             "topics": [
               "dotnet",
               "dotnet-core",
@@ -1199,7 +1998,7 @@
             "open_issues": 74,
             "owner": "metriport",
             "repo": "metriport",
-            "stars": 796,
+            "stars": 797,
             "topics": [
               "api",
               "fhir",
@@ -1292,8 +2091,8 @@
             "id": 69436608,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-11T14:26:09Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-02T17:36:00Z",
+            "open_issues": 25,
             "owner": "pydicom",
             "repo": "pynetdicom",
             "stars": 577,
@@ -1305,6 +2104,32 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dicom-rs",
+          "description": "Rust implementation of the DICOM standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Rust implementation of the DICOM standard",
+            "homepage": "https://dicom-rs.github.io",
+            "id": 71735225,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-27T20:05:22Z",
+            "open_issues": 68,
+            "owner": "Enet4",
+            "repo": "dicom-rs",
+            "stars": 572,
+            "topics": [
+              "dicom",
+              "dicom-standard",
+              "medical-imaging",
+              "rust"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -1338,6 +2163,38 @@
         },
         {
           "node_type": "item",
+          "title": "fhir.resources",
+          "description": "Pydantic-based FHIR resource models for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FHIR Resources https://www.hl7.org/fhir/resourcelist.html",
+            "homepage": "https://pypi.org/project/fhir.resources/",
+            "id": 165297877,
+            "language": "Python",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-14T19:13:09Z",
+            "open_issues": 59,
+            "owner": "nazrulworld",
+            "repo": "fhir.resources",
+            "stars": 543,
+            "topics": [
+              "fhir",
+              "fhirbase",
+              "fhirpath",
+              "healthcare",
+              "healthcare-application",
+              "healthcare-data",
+              "hl7",
+              "ihe",
+              "plone",
+              "python"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "fhir.js",
           "description": "JavaScript client for FHIR.",
           "children": [],
@@ -1352,7 +2209,7 @@
             "open_issues": 69,
             "owner": "FHIR",
             "repo": "fhir.js",
-            "stars": 437,
+            "stars": 438,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
@@ -1394,8 +2251,8 @@
             "id": 376026973,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T13:45:04Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-02T20:52:08Z",
+            "open_issues": 6,
             "owner": "theislab",
             "repo": "ehrapy",
             "stars": 369,
@@ -1412,6 +2269,53 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dcmjs",
+          "description": "JavaScript implementation of DICOM manipulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Javascript implementation of DICOM manipulation                       ",
+            "homepage": "https://dcmjs.netlify.com/",
+            "id": 95673749,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-11-02T20:28:02Z",
+            "open_issues": 157,
+            "owner": "dcmjs-org",
+            "repo": "dcmjs",
+            "stars": 356,
+            "topics": [
+              "dicom",
+              "javascript",
+              "medical-imaging",
+              "nci-itcr"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SMART on FHIR JavaScript client",
+          "description": "JavaScript client for SMART on FHIR apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "JavaScript client for FHIR",
+            "homepage": null,
+            "id": 20245642,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-21T13:03:28Z",
+            "open_issues": 23,
+            "owner": "smart-on-fhir",
+            "repo": "client-js",
+            "stars": 355,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -1433,6 +2337,41 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nHapi",
+          "description": ".NET port of the HAPI HL7 v2 library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "nHapi is the .Net port of the original Java project HAPI.",
+            "homepage": null,
+            "id": 29993598,
+            "language": "C#",
+            "license": "MPL-2.0",
+            "last_commit": "2026-10-26T06:55:24Z",
+            "open_issues": 51,
+            "owner": "nHapiNET",
+            "repo": "nHapi",
+            "stars": 313,
+            "topics": [
+              "dotnet",
+              "dotnet-core",
+              "er7",
+              "hapi",
+              "hl7",
+              "hl7-generating",
+              "hl7-messages",
+              "hl7-parser",
+              "hl7v2",
+              "net35",
+              "netstandard2",
+              "parsing",
+              "xml"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -1468,6 +2407,67 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "HealthChain",
+          "description": "Python SDK for building healthcare AI applications with FHIR tools and real-time EHR connectivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Python SDK for healthcare AI — typed, validated FHIR tools for agents, real-time EHR connectivity, production deployment ✨ 🏥",
+            "homepage": "https://healthchainai.github.io/HealthChain/",
+            "id": 785158333,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-19T18:26:45Z",
+            "open_issues": 6,
+            "owner": "healthchainai",
+            "repo": "HealthChain",
+            "stars": 230,
+            "topics": [
+              "agents",
+              "ai",
+              "ehr",
+              "fhir",
+              "fhir-api",
+              "fhir-tools",
+              "healthcare",
+              "healthcare-ai",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "mcp",
+              "mlops",
+              "python"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "fhir-py",
+          "description": "Async and sync FHIR client for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FHIR Client for python",
+            "homepage": null,
+            "id": 138890668,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-27T10:53:15Z",
+            "open_issues": 44,
+            "owner": "beda-software",
+            "repo": "fhir-py",
+            "stars": 218,
+            "topics": [
+              "client",
+              "fhir",
+              "rest"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -1536,7 +2536,7 @@
             "open_issues": 8,
             "owner": "Vermonster",
             "repo": "fhir-kit-client",
-            "stars": 187,
+            "stars": 188,
             "topics": [
               "cds-hooks",
               "fhir",
@@ -1548,6 +2548,34 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "deid",
+          "description": "De-identification of DICOM images in Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "best effort anonymization for medical images using python",
+            "homepage": "https://pydicom.github.io/deid/",
+            "id": 94163984,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-28T15:58:35Z",
+            "open_issues": 27,
+            "owner": "pydicom",
+            "repo": "deid",
+            "stars": 182,
+            "topics": [
+              "anonymize",
+              "deidentify",
+              "dicom",
+              "medical",
+              "medical-images",
+              "pydicom"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -1655,8 +2683,8 @@
             "id": 109308060,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-29T10:57:20Z",
-            "open_issues": 87,
+            "last_commit": "2026-11-02T16:12:49Z",
+            "open_issues": 88,
             "owner": "openEHR",
             "repo": "archie",
             "stars": 71,
@@ -1745,6 +2773,38 @@
         },
         {
           "node_type": "item",
+          "title": "sct",
+          "description": "File-based SNOMED-CT toolset built in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SNOMED-CT tooling, brought into the 21stC. RF2 → NDJSON → SQLite | Vector | .arrow, | .parquet | .md | refsets | .codelist | MCP | CTV3 & ReadV2 - ready",
+            "homepage": "https://pacharanero.github.io/sct/",
+            "id": 1193833407,
+            "language": "Rust",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-02T13:26:38Z",
+            "open_issues": 23,
+            "owner": "pacharanero",
+            "repo": "sct",
+            "stars": 32,
+            "topics": [
+              "fhir",
+              "health",
+              "nhs",
+              "openehr",
+              "snomed",
+              "snomed-api",
+              "snomed-ct",
+              "snomed-ct-au",
+              "snomedct",
+              "trud"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "Hearth",
           "description": "A fast FHIR-compliant server focused on longitudinal data stores.",
           "children": [],
@@ -1795,7 +2855,7 @@
         },
         {
           "node_type": "item",
-          "title": "nhs-numbers",
+          "title": "nhs-number",
           "description": "Python package to provide utilities for NHS Numbers, including validity checks, normalisation, and generation.",
           "children": [],
           "repo_info": {
@@ -1805,8 +2865,8 @@
             "id": 339235966,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T14:25:22Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-02T19:26:51Z",
+            "open_issues": 10,
             "owner": "uk-fci",
             "repo": "nhs-number",
             "stars": 14,
@@ -1818,6 +2878,27 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nhs-number",
+          "description": "A Clojure/Script library providing validation, formatting and generation of UK NHS Numbers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Clojure/Script library providing validation, formatting and generation of UK NHS Numbers.",
+            "homepage": null,
+            "id": 651968739,
+            "language": "Clojure",
+            "license": "EPL-2.0",
+            "last_commit": "2024-02-27T21:00:54Z",
+            "open_issues": 0,
+            "owner": "wardle",
+            "repo": "nhs-number",
+            "stars": 6,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -1848,6 +2929,91 @@
       "items": [
         {
           "node_type": "item",
+          "title": "MedTimer",
+          "description": "Medication reminder and tracking app for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "MedTimer Android app",
+            "homepage": null,
+            "id": 745594494,
+            "language": "Kotlin",
+            "license": "MIT",
+            "last_commit": "2026-11-02T11:46:22Z",
+            "open_issues": 92,
+            "owner": "Futsch1",
+            "repo": "medTimer",
+            "stars": 649,
+            "topics": [
+              "android",
+              "android-app",
+              "java",
+              "kotlin",
+              "medical",
+              "reminder-app"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "CommCare HQ",
+          "description": "Server for CommCare, a mobile data collection platform for frontline health workers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "CommCareHQ is the server backend for CommCare, the world's largest platform for designing, managing, and deploying robust, offline-first, mobile applications to frontline workers worldwide",
+            "homepage": "https://www.dimagi.com/open-source/",
+            "id": 247278,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-02T22:54:03Z",
+            "open_issues": 270,
+            "owner": "dimagi",
+            "repo": "commcare-hq",
+            "stars": 525,
+            "topics": [
+              "commcare-hq"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "SORMAS",
+          "description": "Surveillance, outbreak response management and analysis system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "SORMAS (Surveillance, Outbreak Response Management and Analysis System) is an early warning and management system to fight the spread of infectious diseases.",
+            "homepage": "https://sormas.org",
+            "id": 58730569,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-11-02T16:04:08Z",
+            "open_issues": 523,
+            "owner": "SORMAS-Foundation",
+            "repo": "SORMAS-Project",
+            "stars": 334,
+            "topics": [
+              "android",
+              "contact-tracing",
+              "covid-19",
+              "diseases",
+              "epidemics",
+              "infectious-diseases",
+              "low-bandwidth",
+              "offline-first",
+              "outbreak",
+              "sdg-3",
+              "surveillance",
+              "web"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "SMART Pediatric Growth Chart",
           "description": "Pediatric growth charts.",
           "children": [],
@@ -1866,6 +3032,77 @@
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "OpenSRP FHIR Core",
+          "description": "Offline-capable Android app for community health workers, built on the Android FHIR SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "FHIR Core / OpenSRP 2 is a Kotlin application for delivering offline-capable, mobile-first healthcare project implementations from local community to national and international scale using FHIR and WHO Smart Guidelines on Android. ",
+            "homepage": "https://opensrp.io",
+            "id": 339242809,
+            "language": "Kotlin",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T11:53:39Z",
+            "open_issues": 216,
+            "owner": "opensrp",
+            "repo": "fhircore",
+            "stars": 70,
+            "topics": [
+              "android",
+              "android-fhir-sdk",
+              "android-library",
+              "fhir",
+              "fhir-client",
+              "fhircore",
+              "hapi-fhir",
+              "healthcare",
+              "java",
+              "kotlin",
+              "kotlin-android",
+              "kotlin-library",
+              "opensrp",
+              "opensrp-web"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AirwayLab",
+          "description": "Browser-based airway analysis dashboard for PAP therapy users with flow limitation scoring, breathing pattern analysis, and oximetry metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free, open-source airway analysis for ResMed CPAP/BiPAP data",
+            "homepage": "https://airwaylab.app",
+            "id": 1176049836,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-13T08:29:20Z",
+            "open_issues": 4,
+            "owner": "airwaylab-app",
+            "repo": "airwaylab",
+            "stars": 45,
+            "topics": [
+              "bipap",
+              "cpap",
+              "edf",
+              "flow-limitation",
+              "health",
+              "nextjs",
+              "open-source",
+              "oscar-alternative",
+              "resmed",
+              "sleep-analysis",
+              "sleep-apnea",
+              "sleep-tracking",
+              "uars"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -1898,31 +3135,147 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Fasten Health",
-          "description": "open-source, self-hosted, personal/family electronic medical record aggregator",
+          "title": "OpenHealth",
+          "description": "Privacy-first AI health assistant that interprets personal health data (blood tests, checkups, family history, symptoms) with local LLM support via Ollama.",
           "children": [],
           "repo_info": {
-            "archived": true,
-            "description": "Fasten is an open-source, self-hosted, personal/family electronic medical record manager",
-            "homepage": null,
-            "id": 527781321,
-            "language": "Go",
-            "license": "GPL-3.0",
-            "last_commit": "2026-02-13T03:26:58Z",
-            "open_issues": 217,
-            "owner": "fastenhealth",
-            "repo": "fasten-onprem",
-            "stars": 2794,
+            "archived": false,
+            "description": "OpenHealth, AI Health Assistant | Powered by Your Data",
+            "homepage": "https://www.open-health.me",
+            "id": 921101295,
+            "language": "TypeScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-01-06T07:07:25Z",
+            "open_issues": 58,
+            "owner": "OpenHealthForAll",
+            "repo": "open-health",
+            "stars": 3966,
             "topics": [
-              "electronic-health-record",
-              "electronic-medical-record",
-              "emr",
-              "healthcare",
-              "open-source",
-              "personal-health-record"
+              "ai",
+              "healthcare"
             ]
           },
-          "first_seen": "2026-08-29T00:35:32.499Z"
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Nightscout",
+          "description": "Web monitor for continuous glucose monitor data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "nightscout web monitor",
+            "homepage": null,
+            "id": 20042152,
+            "language": "JavaScript",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-02T22:17:36Z",
+            "open_issues": 99,
+            "owner": "nightscout",
+            "repo": "cgm-remote-monitor",
+            "stars": 2856,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "xDrip+",
+          "description": "Android app for collecting and displaying continuous glucose monitor data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Nightscout version of xDrip+",
+            "homepage": "https://jamorham.github.io/#xdrip-plus",
+            "id": 69027651,
+            "language": "Java",
+            "license": "GPL-3.0",
+            "last_commit": "2026-10-23T12:35:27Z",
+            "open_issues": 129,
+            "owner": "NightscoutFoundation",
+            "repo": "xDrip",
+            "stars": 1820,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Loop",
+          "description": "Automated insulin delivery app for iOS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An automated insulin delivery app for iOS, built on LoopKit",
+            "homepage": "https://loopdocs.org",
+            "id": 59537417,
+            "language": "Swift",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-02T21:45:22Z",
+            "open_issues": 109,
+            "owner": "LoopKit",
+            "repo": "Loop",
+            "stars": 1753,
+            "topics": [
+              "diabetes",
+              "diabetes-app",
+              "diabetes-prediction"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "AndroidAPS",
+          "description": "Open source automated insulin delivery system for Android.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Opensource automated insulin delivery system (closed loop)",
+            "homepage": "https://wiki.aaps.app",
+            "id": 297340071,
+            "language": "Kotlin",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-11-02T22:30:36Z",
+            "open_issues": 214,
+            "owner": "nightscout",
+            "repo": "AndroidAPS",
+            "stars": 1242,
+            "topics": [
+              "closed-loop",
+              "diabetes",
+              "opensource",
+              "t1d"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Trio",
+          "description": "Automated insulin delivery system for iOS based on the OpenAPS algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Trio - an automated insulin delivery system for iOS based on the OpenAPS algorithm with adaptations.",
+            "homepage": "https://triodocs.org",
+            "id": 766196692,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-11-02T22:15:46Z",
+            "open_issues": 100,
+            "owner": "nightscout",
+            "repo": "Trio",
+            "stars": 419,
+            "topics": [
+              "closed-loop",
+              "diabetes",
+              "opensource",
+              "oref",
+              "t1d"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -1953,6 +3306,92 @@
       "items": [
         {
           "node_type": "item",
+          "title": "OHDSI ATLAS",
+          "description": "Web tool for observational research on OMOP CDM data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ATLAS is an open source software tool for researchers to conduct scientific analyses on standardized observational data",
+            "homepage": "http://atlas-demo.ohdsi.org/",
+            "id": 38765967,
+            "language": "JavaScript",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-16T08:49:59Z",
+            "open_issues": 261,
+            "owner": "OHDSI",
+            "repo": "Atlas",
+            "stars": 335,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "admiral",
+          "description": "R package from pharmaverse for creating ADaM clinical trial datasets.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "ADaM in R Asset Library",
+            "homepage": "https://pharmaverse.github.io/admiral",
+            "id": 349132982,
+            "language": "R",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T19:09:07Z",
+            "open_issues": 25,
+            "owner": "pharmaverse",
+            "repo": "admiral",
+            "stars": 324,
+            "topics": [
+              "adam",
+              "cdisc",
+              "clinical-trials",
+              "open-source",
+              "pharmaverse",
+              "r"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LibreClinica",
+          "description": "Electronic data capture for clinical trials, community successor of OpenClinica.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "LibreClinica is the community driven successor of OpenClinica. It is an open source clinical trial software for Electronic Data Capture (EDC) Clinical Data Management (CDM).",
+            "homepage": "https://libreclinica.org",
+            "id": 169558966,
+            "language": "Java",
+            "license": "LGPL-3.0",
+            "last_commit": "2026-11-01T06:56:42Z",
+            "open_issues": 30,
+            "owner": "reliatec-gmbh",
+            "repo": "LibreClinica",
+            "stars": 83,
+            "topics": [
+              "clinical-trial-management-system",
+              "clinical-trials",
+              "edc",
+              "electronic-data-capture",
+              "java",
+              "openclinica",
+              "opensource",
+              "professional",
+              "trials"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        }
+      ],
+      "title": "Research"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "OpenWearables",
           "description": "Self-hosted platform to unify wearable health data through one AI-ready API.",
           "children": [],
@@ -1963,11 +3402,11 @@
             "id": 1086572146,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-30T14:56:55Z",
-            "open_issues": 200,
+            "last_commit": "2026-11-02T22:57:21Z",
+            "open_issues": 184,
             "owner": "the-momentum",
             "repo": "open-wearables",
-            "stars": 2742,
+            "stars": 2747,
             "topics": [
               "apple-health",
               "apple-watch",
@@ -2065,6 +3504,36 @@
         },
         {
           "node_type": "item",
+          "title": "Open Integration Engine",
+          "description": "Community open source fork of Mirth Connect.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An open source fork of the now closed-source Mirth Connect.   Installers for the engine are in this repository.",
+            "homepage": "https://openintegrationengine.com/",
+            "id": 956275223,
+            "language": "Java",
+            "license": "MPL-2.0",
+            "last_commit": "2026-11-02T17:31:57Z",
+            "open_issues": 219,
+            "owner": "OpenIntegrationEngine",
+            "repo": "engine",
+            "stars": 240,
+            "topics": [
+              "ccda",
+              "fhir",
+              "healthcare",
+              "hl7",
+              "integrations",
+              "interoperability",
+              "mirth",
+              "mirth-connect"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "Open eHealth Integration Platform",
           "description": "An extension of the Apache Camel routing and mediation engine",
           "children": [],
@@ -2075,8 +3544,8 @@
             "id": 5672302,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-27T11:05:26Z",
-            "open_issues": 12,
+            "last_commit": "2026-11-02T22:21:02Z",
+            "open_issues": 13,
             "owner": "oehf",
             "repo": "ipf",
             "stars": 194,
@@ -2091,6 +3560,67 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "LinuxForHealth HL7v2-FHIR Converter",
+          "description": "Converts HL7 v2 messages to FHIR resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Converts HL7 v2 Messages to FHIR Resources",
+            "homepage": null,
+            "id": 296387442,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-02-11T04:31:13Z",
+            "open_issues": 32,
+            "owner": "LinuxForHealth",
+            "repo": "hl7v2-fhir-converter",
+            "stars": 110,
+            "topics": [
+              "converter",
+              "fhir",
+              "fhir-resources",
+              "healthcare",
+              "hl7",
+              "hl7v2",
+              "hl7v2-fhir-converter"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "mirthSync",
+          "description": "CLI for putting Mirth Connect and Open Integration Engine configuration under version control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mirth Connect tool for syncing code via source control between environments",
+            "homepage": "https://saga-it.com/products/mirthsync",
+            "id": 92094492,
+            "language": "Clojure",
+            "license": "EPL-1.0",
+            "last_commit": "2026-10-21T22:21:31Z",
+            "open_issues": 21,
+            "owner": "SagaHealthcareIT",
+            "repo": "mirthsync",
+            "stars": 104,
+            "topics": [
+              "cicd",
+              "clojure",
+              "devops",
+              "healthcare",
+              "healthcare-integration",
+              "hl7",
+              "interface-engine",
+              "mirth-connect",
+              "open-integration-engine",
+              "version-control"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         }
       ],
       "title": "Integration"
@@ -2098,6 +3628,125 @@
     {
       "description": null,
       "items": [
+        {
+          "node_type": "item",
+          "title": "GATK",
+          "description": "Broad Institute toolkit for variant discovery in high-throughput sequencing data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Official code repository for GATK versions 4 and up",
+            "homepage": "https://software.broadinstitute.org/gatk",
+            "id": 27452807,
+            "language": "Java",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-02T22:02:09Z",
+            "open_issues": 1465,
+            "owner": "broadinstitute",
+            "repo": "gatk",
+            "stars": 2010,
+            "topics": [
+              "bioinformatics",
+              "dna",
+              "gatk",
+              "genome",
+              "genomics",
+              "ngs",
+              "science",
+              "sequencing",
+              "spark"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "scikit-bio",
+          "description": "Python library for bioinformatics, providing tools for sequence analysis, microbiome studies, and statistical analysis of biological data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "scikit-bio: a community-driven Python library for bioinformatics, providing versatile data structures, algorithms and educational resources.",
+            "homepage": "https://scikit.bio",
+            "id": 15168264,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-01T20:39:59Z",
+            "open_issues": 273,
+            "owner": "scikit-bio",
+            "repo": "scikit-bio",
+            "stars": 1258,
+            "topics": [
+              "bioinformatics",
+              "compositional-data",
+              "computational-biology",
+              "metagenomics",
+              "microbiome",
+              "multivariate-analysis",
+              "omics",
+              "phylogenetics",
+              "python",
+              "sequence-alignment"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Hail",
+          "description": "Scalable genomic data analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Cloud-native genomic dataframes and batch computing",
+            "homepage": "https://hail.is",
+            "id": 45069467,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-11-02T22:25:57Z",
+            "open_issues": 377,
+            "owner": "hail-is",
+            "repo": "hail",
+            "stars": 1081,
+            "topics": [
+              "bioinformatics",
+              "genetics",
+              "genomics",
+              "gwas",
+              "hail",
+              "python",
+              "software",
+              "vcf"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "cBioPortal",
+          "description": "Platform for exploring and visualizing cancer genomics data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "cBioPortal for Cancer Genomics",
+            "homepage": "https://cbioportal.org",
+            "id": 32481543,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T21:06:23Z",
+            "open_issues": 361,
+            "owner": "cBioPortal",
+            "repo": "cbioportal",
+            "stars": 1063,
+            "topics": [
+              "cancer-genomics",
+              "precision-medicine",
+              "science",
+              "visualization"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
         {
           "node_type": "item",
           "title": "ADAM",
@@ -2146,10 +3795,52 @@
             "open_issues": 133,
             "owner": "bcbio",
             "repo": "bcbio-nextgen",
-            "stars": 1031,
+            "stars": 1030,
             "topics": []
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "nf-core/sarek",
+          "description": "Pipeline to detect germline and somatic variants from sequencing data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing",
+            "homepage": "https://nf-co.re/sarek",
+            "id": 184289291,
+            "language": "Nextflow",
+            "license": "MIT",
+            "last_commit": "2026-11-02T22:16:14Z",
+            "open_issues": 291,
+            "owner": "nf-core",
+            "repo": "sarek",
+            "stars": 616,
+            "topics": [
+              "annotation",
+              "bioinformatics",
+              "cancer",
+              "conda",
+              "containers",
+              "gatk4",
+              "genomics",
+              "germline",
+              "next-generation-sequencing",
+              "nextflow",
+              "nf-core",
+              "pipeline",
+              "pre-processing",
+              "reproducible-research",
+              "somatic",
+              "target-panels",
+              "variant-calling",
+              "whole-exome-sequencing",
+              "whole-genome-sequencing",
+              "workflow"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -2201,10 +3892,10 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-10-21T23:19:40Z",
-            "open_issues": 288,
+            "open_issues": 295,
             "owner": "synthetichealth",
             "repo": "synthea",
-            "stars": 3429,
+            "stars": 3436,
             "topics": [
               "fhir",
               "health-data",
@@ -2215,6 +3906,125 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "medspaCy",
+          "description": "Library for clinical NLP with spaCy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Library for clinical NLP with spaCy.",
+            "homepage": null,
+            "id": 272784426,
+            "language": "Jupyter Notebook",
+            "license": "MIT",
+            "last_commit": "2026-06-04T02:07:31Z",
+            "open_issues": 40,
+            "owner": "medspacy",
+            "repo": "medspacy",
+            "stars": 684,
+            "topics": [
+              "clinical-nlp",
+              "medspacy",
+              "nlp",
+              "nlp-library",
+              "pipeline",
+              "spacy"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Snowstorm",
+          "description": "SNOMED International's SNOMED CT terminology server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Scalable SNOMED CT Terminology Server using Elasticsearch",
+            "homepage": null,
+            "id": 61675155,
+            "language": "Java",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-02T11:47:33Z",
+            "open_issues": 125,
+            "owner": "IHTSDO",
+            "repo": "snowstorm",
+            "stars": 399,
+            "topics": [
+              "elasticsearch",
+              "snomed-ct"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "DHIS2",
+          "description": "Health information management platform used by national health systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "DHIS 2 Core. Written in Java. Contains the service layer and Web API.",
+            "homepage": null,
+            "id": 66940520,
+            "language": "Java",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-02T16:25:35Z",
+            "open_issues": 150,
+            "owner": "dhis2",
+            "repo": "dhis2-core",
+            "stars": 360,
+            "topics": [
+              "hacktoberfest",
+              "hibernate",
+              "java",
+              "maven",
+              "spring",
+              "spring-mvc"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Tuva",
+          "description": "Open source data model, data marts and data quality tests for claims and clinical data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Main repo including core data model, data marts, data quality tests, and terminology sets.",
+            "homepage": "https://thetuvaproject.com/",
+            "id": 427413105,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-28T17:45:37Z",
+            "open_issues": 23,
+            "owner": "tuva-health",
+            "repo": "tuva-core",
+            "stars": 333,
+            "topics": [
+              "analytics-engineering",
+              "bigquery",
+              "data-analytics",
+              "data-governance",
+              "data-lineage",
+              "data-pipelines",
+              "data-warehouse",
+              "dbt",
+              "dbt-packages",
+              "healthcare",
+              "healthcare-analysis",
+              "healthcare-data",
+              "open-source",
+              "redshift",
+              "snowflake",
+              "sql",
+              "terminology"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -2258,6 +4068,44 @@
         },
         {
           "node_type": "item",
+          "title": "OpenMRS FHIR Analytics",
+          "description": "Pipeline tools for transforming OpenMRS data to FHIR-based analytics using Apache Beam.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A collection of tools for extracting FHIR resources and analytics services on top of that data.",
+            "homepage": "https://ohs-foundation.github.io/fhir-data-pipes/",
+            "id": 285892219,
+            "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T11:31:59Z",
+            "open_issues": 159,
+            "owner": "ohs-foundation",
+            "repo": "fhir-data-pipes",
+            "stars": 228,
+            "topics": [
+              "analytics",
+              "apache-beam",
+              "data-pipeline",
+              "digital-health",
+              "etl",
+              "fhir-store",
+              "global-health",
+              "hl7-fhir",
+              "interoperability",
+              "java",
+              "ohs",
+              "ohs-fhir-foundations",
+              "open-health-stack",
+              "parquet",
+              "sql-on-fhir",
+              "sql-on-fhir-v2"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "EDS_NLP",
           "description": "provides a set of spaCy components to extract information from clinical notes written in French",
           "children": [],
@@ -2268,8 +4116,8 @@
             "id": 467585436,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-28T11:19:05Z",
-            "open_issues": 32,
+            "last_commit": "2026-11-02T11:50:12Z",
+            "open_issues": 33,
             "owner": "aphp",
             "repo": "edsnlp",
             "stars": 167,
@@ -2288,6 +4136,33 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Pathling",
+          "description": "FHIR and clinical terminology analytics on Apache Spark.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tools that make it easier to use FHIR and clinical terminology within data analytics, built on Apache Spark.",
+            "homepage": "https://pathling.csiro.au",
+            "id": 249342627,
+            "language": "Java",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T06:14:10Z",
+            "open_issues": 143,
+            "owner": "aehrc",
+            "repo": "pathling",
+            "stars": 140,
+            "topics": [
+              "analytics",
+              "fhir",
+              "spark",
+              "standards",
+              "terminology"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         },
         {
           "node_type": "item",
@@ -2328,8 +4203,8 @@
             "id": 279919776,
             "language": "TSQL",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T16:54:14Z",
-            "open_issues": 80,
+            "last_commit": "2026-11-02T22:27:59Z",
+            "open_issues": 84,
             "owner": "atlas-bi",
             "repo": "Library",
             "stars": 17,
@@ -2440,6 +4315,29 @@
       "items": [
         {
           "node_type": "item",
+          "title": "nnU-Net",
+          "description": "Self-configuring deep learning framework for biomedical image segmentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 181846371,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-30T22:04:45Z",
+            "open_issues": 84,
+            "owner": "MIC-DKFZ",
+            "repo": "nnUNet",
+            "stars": 9006,
+            "topics": [
+              "segmentation"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "MONAI",
           "description": "AI Toolkit for Healthcare Imaging.",
           "children": [],
@@ -2450,11 +4348,11 @@
             "id": 214485001,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-30T15:12:36Z",
-            "open_issues": 533,
+            "last_commit": "2026-11-02T18:24:49Z",
+            "open_issues": 534,
             "owner": "Project-MONAI",
             "repo": "MONAI",
-            "stars": 8815,
+            "stars": 8817,
             "topics": [
               "deep-learning",
               "healthcare-imaging",
@@ -2483,7 +4381,7 @@
             "open_issues": 6,
             "owner": "shibing624",
             "repo": "MedicalGPT",
-            "stars": 5877,
+            "stars": 5879,
             "topics": [
               "chatgpt",
               "dpo",
@@ -2498,6 +4396,100 @@
         },
         {
           "node_type": "item",
+          "title": "OpenMed",
+          "description": "Local clinical named-entity recognition and PHI de-identification models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Local-first healthcare AI: clinical NER and HIPAA PII de-identification on hardware you control. 2,200+ medical models, 35 model-backed PII languages, and Python, MLX, Android and browser runtimes. Apache-2.0 SDK.",
+            "homepage": "https://openmed.life/",
+            "id": 1069760430,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T19:19:07Z",
+            "open_issues": 468,
+            "owner": "maziyarpanahi",
+            "repo": "openmed",
+            "stars": 5765,
+            "topics": [
+              "android",
+              "clinical-nlp",
+              "healthcare",
+              "hipaa",
+              "ios",
+              "javascript",
+              "llm",
+              "local-llm",
+              "mlx",
+              "ner",
+              "nlp",
+              "on-device",
+              "on-premise",
+              "pii",
+              "pii-detection",
+              "python",
+              "skills",
+              "sovereign-ai",
+              "swift",
+              "swiftui"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TotalSegmentator",
+          "description": "Segmentation of more than 100 anatomical structures in CT and MR images.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tool for robust segmentation of >100 important anatomical structures in CT and MR images",
+            "homepage": null,
+            "id": 449681070,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-22T13:19:50Z",
+            "open_issues": 88,
+            "owner": "wasserth",
+            "repo": "TotalSegmentator",
+            "stars": 3104,
+            "topics": []
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TorchIO",
+          "description": "Medical image preprocessing and augmentation for deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Medical imaging processing for AI applications.",
+            "homepage": "https://docs.torchio.org/",
+            "id": 224148738,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T04:33:24Z",
+            "open_issues": 63,
+            "owner": "TorchIO-project",
+            "repo": "torchio",
+            "stars": 2452,
+            "topics": [
+              "augmentation",
+              "data-augmentation",
+              "deep-learning",
+              "machine-learning",
+              "medical-image-analysis",
+              "medical-image-computing",
+              "medical-image-processing",
+              "python",
+              "pytorch"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
           "title": "PyHealth",
           "description": "A Deep Learning Python Toolkit for Healthcare Application.",
           "children": [],
@@ -2508,8 +4500,8 @@
             "id": 284780206,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-11-01T11:12:56Z",
-            "open_issues": 74,
+            "last_commit": "2026-11-02T22:34:38Z",
+            "open_issues": 71,
             "owner": "sunlabuiuc",
             "repo": "PyHealth",
             "stars": 1692,
@@ -2537,9 +4529,174 @@
             ]
           },
           "first_seen": "2026-08-29T00:35:32.499Z"
+        },
+        {
+          "node_type": "item",
+          "title": "PathML",
+          "description": "Python library for digital pathology image analysis, providing tools for preprocessing, model training, and analysis of histological slides.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Tools for computational pathology",
+            "homepage": "https://pathml.org",
+            "id": 199872628,
+            "language": "Python",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-14T02:49:27Z",
+            "open_issues": 52,
+            "owner": "Dana-Farber-AIOS",
+            "repo": "pathml",
+            "stars": 467,
+            "topics": [
+              "biomedical-image-processing",
+              "computational-pathology",
+              "deep-learning",
+              "digital-pathology",
+              "fluorescence-microscopy-imaging",
+              "histopathology",
+              "image-analysis",
+              "machine-learning",
+              "microscopy",
+              "pathml",
+              "pathology",
+              "python",
+              "pytorch",
+              "research",
+              "spatial-transcriptomics"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "seismometer",
+          "description": "Epic's framework for evaluating AI models in healthcare.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI model evaluation with a focus on healthcare",
+            "homepage": "https://epic-open-source.github.io/seismometer/",
+            "id": 796858994,
+            "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-11-02T19:26:04Z",
+            "open_issues": 54,
+            "owner": "epic-open-source",
+            "repo": "seismometer",
+            "stars": 272,
+            "topics": [
+              "health-ai",
+              "healthcare"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Odyssey",
+          "description": "Interpretable foundation model of the patient clinical timeline for event forecasting and time-to-event prediction.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "An interpretable foundation model of the patient clinical timeline: event forecasting, calibrated time-to-event alerts, and concept-level interpretability, benchmarked head-to-head against tuned GBMs, tabular foundation models, and survival baselines on MIMIC-IV, eICU, and GEMINI via the MEDS standard.",
+            "homepage": null,
+            "id": 726131555,
+            "language": "Python",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-02T20:58:07Z",
+            "open_issues": 8,
+            "owner": "VectorInstitute",
+            "repo": "odyssey",
+            "stars": 63,
+            "topics": [
+              "clinical-ai",
+              "concept-bottleneck",
+              "ehr",
+              "eicu",
+              "electronic-health-records",
+              "foundation-models",
+              "healthcare",
+              "interpretability",
+              "machine-learning",
+              "mamba",
+              "medical-informatics",
+              "meds",
+              "mimic-iv",
+              "pytorch",
+              "state-space-models",
+              "survival-analysis",
+              "time-to-event",
+              "transformers"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
         }
       ],
       "title": "Machine learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "HealthStack",
+          "description": "Terraform modules for secure and compliant healthcare infrastructure on AWS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "🏛️ Build Compliant Infrastructure on AWS",
+            "homepage": "https://healthstack.tf",
+            "id": 867131385,
+            "language": "HCL",
+            "license": "MIT",
+            "last_commit": "2026-07-02T12:52:05Z",
+            "open_issues": 8,
+            "owner": "the-momentum",
+            "repo": "healthstack",
+            "stars": 94,
+            "topics": [
+              "aws",
+              "fhir",
+              "healthtech",
+              "terraform"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        }
+      ],
+      "title": "Compliance"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Tapirx",
+          "description": "Networked medical device discovery and identification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Free and open-source medical device discovery and identification",
+            "homepage": null,
+            "id": 163875656,
+            "language": "Go",
+            "license": "GPL-3.0",
+            "last_commit": "2026-04-13T17:29:45Z",
+            "open_issues": 13,
+            "owner": "virtalabs",
+            "repo": "tapirx",
+            "stars": 42,
+            "topics": [
+              "medical-devices",
+              "network-traffic",
+              "pcap",
+              "port-mirroring"
+            ]
+          },
+          "first_seen": "2026-11-02T23:37:51.649Z"
+        }
+      ],
+      "title": "Asset Management"
     },
     {
       "description": null,
@@ -2556,7 +4713,7 @@
             "id": 6001800,
             "language": "Groovy",
             "license": "EPL-1.0",
-            "last_commit": "2026-11-01T07:05:44Z",
+            "last_commit": "2026-11-02T22:01:02Z",
             "open_issues": 191,
             "owner": "openboxes",
             "repo": "openboxes",
@@ -2616,7 +4773,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T20:37:10.339Z",
+    "last_updated": "2026-11-02T23:37:51.649Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
@@ -2624,11 +4781,11 @@
       "id": 52342167,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-05-05T10:41:03Z",
-      "open_issues": 74,
+      "last_commit": "2026-11-02T21:46:14Z",
+      "open_issues": 5,
       "owner": "kakoni",
       "repo": "awesome-healthcare",
-      "stars": 4036,
+      "stars": 4040,
       "topics": [
         "awesome",
         "awesome-list",
@@ -2636,7 +4793,7 @@
         "list"
       ]
     },
-    "original_repository_sha": "c799138661a78faf0f0ee3eba6d657770988b6f2",
+    "original_repository_sha": "58a2e4cb5b8669537f32682d104bcca7552eb642",
     "enhanced_repository": "enhansome/enhansome-healthcare",
     "enhanced_repository_description": null,
     "title": "Awesome Health with stars"
